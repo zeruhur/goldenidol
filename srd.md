@@ -21,7 +21,7 @@ Characters may be powerful, but they are also vulnerable to harm in its many for
 ### Fiction First  
 Dice do not always reflect an obstacle's difficulty or its outcome. Instead, success and failure are arbitrated by the Referee in dialogue with the players, based on in-world elements.
 
-### Growth  
+### Foreground Growth  
 Characters are changed through in-world advancement, gaining new skills and abilities by surviving dangerous events and overcoming obstacles.
 
 ### Player Choice  
@@ -113,6 +113,20 @@ Players trust one another to engage with the shared setting, character goals, an
 - Expect nothing. Earn your reputation.
 - Keep things moving forward and play to see what happens.
 
+## Principles of the World
+
+### Adventure
+
+### Artifacts
+
+### Lost Civilization
+
+### Secret Societies
+
+### Globetrotting
+
+### Unexplained
+
 ## Character Creation
 
 ### 1. Ability Scores  
@@ -191,7 +205,7 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
 
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Hirelings** can also be paid to carry equipment.
+A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Assistants** can also be paid to carry equipment.
 
 ## Archetypes
 
@@ -347,33 +361,40 @@ Why do you join LARA?
 | Wire Bug                             | 25              |
 | Zip Ties                             | 25              |
 
-#### Vehicles
+## Vehicles
 
-Vehicles
 Like creatures, vehicles have three abilities used to make saves.
-    • Integrity (INT): General stability, used to crash safely, smash through things, and resist Critical Damage. Equivalent to STR for creatures.
-    • Engines (ENG): Ability to move, speed up, dodge, and stunts. Equivalent to DEX for creatures.
-    • Gauges (GAU): Mechanical control components. Used to maintain routes, stabilize assets, etc. Equivalent to WIL for creatures.
+- **Integrity** (INT): General stability, used to crash safely, smash through things, and resist Critical Damage. Equivalent to STR for creatures.
+- **Engines** (ENG): Ability to move, speed up, dodge, and stunts. Equivalent to DEX for creatures.
+- **Gauges** (GAU): Mechanical control components. Used to maintain routes, stabilize assets, etc. Equivalent to WIL for creatures.
+
 Vehicles also possess:
-    • Hull Points (HP) which reflect their ability to avoid damage in combat.
-    • Armor which reduces damage (max 3) before affecting HP.
-    • Load capacity of the vehicle (10 slots)
+- Hull Points (**HP**) which reflect their ability to avoid damage in combat.
+- **Armor** which reduces damage (max 3) before affecting HP.
+- **Load**, the capacity of the vehicle:
+  - 1 slot per person or 100lb of weight.
+  - Exceeding the total value of Load, the vehicle is overloaded and it is unable to recover HP or ability scores.
+
+**Damage** that reduces a target's HP below zero decreases a target's INT by the amount remaining. 
+- They must then make a INT save to avoid critical damage. 
+- Any vehicle that suffers critical damage trudges and spits oil. If left unrepaired, it is destroyed within the 1d20 minutes.
+- A vehicle with zero INT is totaled.
 
 | Type                | Armor | HP  | INT | ENG | GAU | Load | Cost ($)  |
 | ------------------- | ----- | --- | --- | --- | --- | ---- | --------- |
-| Compact car         | 2     | 50  |     |     |     | 4    | 18,000    |
-| Humvee              | 8     | 85  |     |     |     | 6    | 100,000   |
-| Luxury car          | 3     | 55  |     |     |     | 4    | 80,000    |
-| Police car (s/h)    | 3     | 50  |     |     |     | 4    | 20,000    |
-| Small car           | 1     | 25  |     |     |     | 4    | 10,000    |
-| Sports car          | 1     | 35  |     |     |     | 2    | 50,000    |
-| SUV                 | 3     | 70  |     |     |     | 4    | 40,000    |
-| Helicopter          | 2     | 35  |     |     |     | 4    | 500,000   |
-| Military Helicopter | 6     | 80  |     |     |     | 2    | 7,000,000 |
-| Ultralight          | 1     | 20  |     |     |     | 2    | 50,000    |
-| Lear Jet            | 2     | 90  |     |     |     | 8    | 3,000,000 |
-| Mini-Sub            | 2     | 35  |     |     |     | 2    | 60,000    |
-| Speedboat           | 1     | 30  |     |     |     | 4    | 15,000    |
+| Compact car         | -     | 50  |     |     |     | 6    | 18,000    |
+| Humvee              | 3     | 85  |     |     |     | 8    | 100,000   |
+| Luxury car          | 1     | 55  |     |     |     | 6    | 80,000    |
+| Police car (s/h)    | 1     | 50  |     |     |     | 6    | 20,000    |
+| Small car           | -     | 25  |     |     |     | 6    | 10,000    |
+| Sports car          | -     | 35  |     |     |     | 4    | 50,000    |
+| SUV                 | 2     | 70  |     |     |     | 6    | 40,000    |
+| Helicopter          | 2     | 35  |     |     |     | 6    | 500,000   |
+| Military Helicopter | 3     | 80  |     |     |     | 4    | 7,000,000 |
+| Motorcycle          | -     | 20  |     |     |     | 4    | 20,000    |
+| Lear Jet            | 2     | 90  |     |     |     | 10   | 3,000,000 |
+| Mini-Sub            | 2     | 35  |     |     |     | 4    | 60,000    |
+| Speedboat           | -     | 30  |     |     |     | 6    | 15,000    |
 
 
 ## Rules
@@ -414,8 +435,8 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Re
 ### Morale
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
-### Hirelings
-PCs can hire **hirelings** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Hirelings cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+### Assistants
+PCs can hire **Assistants** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Assistants cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
 ### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
@@ -423,9 +444,6 @@ The most common coin is the gold piece (gp), which is equal to 10 silver pieces 
 Treasure is highly valuable, usually bulky, and rarely useful beyond its value. It can be a lure, taking PCs to exotic and even dangerous locations, and is often under the protection of intimidating foes.
 
 Villages, strongholds, and ports of call barter and trade based on the local rarity and value of an item or commodity.
-
-### Artifacts
-...
 
 ## Combat
 
@@ -453,12 +471,12 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
 ### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll a damage dice one size smaller than the attack damage die.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
+If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll a damage dice one size bigger than their normal die.
 
-### Dual Weapons
-If attacking with two weapons at the same time, roll both damage dice and keep the single highest result.
+### Dual Damage
+If attacking with two weapons at the same time or the the weapon grants more than one damage dice, roll all damage dice and keep the single highest result.
 
 ### Blast  
 Attacks with the **blast** quality affect all targets in the noted area, rolling separately for each affected character. Blast refers to anything from explosions to huge cleaving onslaughts to the impact of a meteorite. If unsure how many targets can be affected, roll the related damage die for a result.
@@ -555,7 +573,7 @@ Filling all ten item slots reduces a PC to 0 HP. PCs cannot carry more than thei
 **Deprived** PCs cannot recover HP. If deprived for more than a day,they add a **Fatigue** to inventory. Fatigue occupies one slot and lasts until they can recover in safety. This effect is cumulative.
 
 **HEALING**  
-A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a skilled healer.
+A moment's rest and a swig of water will restore lost HP, but may leave the party vulnerable. **Ability** loss requires a week's rest and the aid of a medic.
 
 **COMBAT**  
 The attacker rolls their weapon die and subtracts the target's Armor, then deals the remaining total to their opponent's HP.
@@ -576,3 +594,9 @@ Damage that reduces a target's HP **below** 0 decreases their STR by the remaind
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
 
 ## Credits
+Huge thanks to:
+- Yochai Gal for Cairn
+- Nick Erickson for some equipment from Liminal Horror
+- Eugenio Gianniti for the title
+- The Italian community of Eclectica GDR for the valuable support and advice
+- Simon Washbourn for the inspiration of Ancient Mysteries & Lost Treasure
