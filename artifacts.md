@@ -19,3 +19,14 @@ The Chalice of Immortality - a chalice said to hold the elixir of life, granting
 The Amulet of the Phoenix - an amulet said to hold the power of the mythical phoenix, allowing the wearer to be reborn from the ashes.
 The Ring of the Dragon - a ring said to grant the wearer the power of the dragon, allowing them to breathe fire and command armies of dragons.
 The Mirror of Truth - a mirror said to reveal the true nature of anyone who gazes into it, exposing their deepest secrets and hidden motives.
+
+The Heart of the Sea, a glowing, pearl-like gem that is said to grant its wielder the power to control the oceans and their inhabitants.
+The Book of Infinity, an ancient tome that is said to contain the knowledge of the universe and the secrets of time and space.
+The Mirror of Truth, a mysterious mirror that is said to reveal a person's innermost thoughts and desires, and can be used to manipulate their emotions and actions.
+The Golden Chalice of Life, a golden cup that is said to grant eternal youth and vitality to those who drink from it.
+The Staff of the Elements, a powerful magical staff that can control and manipulate the four elements of earth, air, fire, and water.
+The Ruby of Fire, a glowing red gem that is said to grant its wielder the power of pyrokinesis, allowing them to control and manipulate flames.
+The Scepter of Time, a golden scepter that is said to allow its wielder to control the flow of time and manipulate events in the past and future.
+The Diamond of Souls, a diamond that is said to contain the souls of the dead and can be used to communicate with the spirit world.
+The Sword of Destiny, a powerful sword that can only be wielded by the true hero and is said to possess the power to defeat even the greatest of foes.
+The Shield of Virtue, a magical shield that is said to protect its wielder from all harm and deflect any attack, physical or magical.
