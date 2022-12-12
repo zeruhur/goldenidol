@@ -223,7 +223,7 @@ Why do you join LARA?
 #### Hustler
 
 ### 6. Age
-
+Finally, roll for their **age** (2d20+10).
 
 ## Inventory
 
