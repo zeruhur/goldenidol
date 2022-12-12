@@ -19,3 +19,14 @@ The Valley of the Kings - a hidden valley said to hold the tombs of powerful anc
 The Desert of Dreams - a vast desert said to hold the key to unlocking the secrets of the universe, and a gateway to other dimensions.
 The Forest of Shadows - a dark forest said to be home to mythical creatures and magical beings, and a portal to the spirit world.
 The Mountain of the Gods - a towering mountain said to be the home of the gods, and the source of all life on Earth.
+
+The Kingdom of El'hara, a once-great civilization that flourished in the depths of the jungle, until it was mysteriously wiped out by a massive natural disaster.
+The Empire of the Golden Sun, a powerful civilization that ruled over a vast empire, until it was conquered and destroyed by a rival empire.
+The Republic of the Crystal Seas, a technologically advanced civilization that lived on a network of floating cities, until it was destroyed by a massive tidal wave.
+The Clan of the Shadow Wolves, a warlike civilization that lived in the frozen north, until it was overwhelmed by a massive horde of invading barbarians.
+The Temple of the Star Gods, a mysterious civilization that worshipped powerful, god-like beings from the stars, until it was destroyed by a massive solar flare.
+The Confederation of the Iron Mountains, a powerful and industrious civilization that lived in a network of underground cities, until it was destroyed by a massive earthquake.
+The Council of the Wise Elders, a peaceful and wise civilization that lived in harmony with nature, until it was destroyed by a massive volcanic eruption.
+The Kingdom of the Eternal Flame, a powerful and mystical civilization that worshipped powerful, fire-based deities, until it was destroyed by a massive fire that swept across the land.
+The Empire of the Jade Dragons, a proud and noble civilization that ruled over a vast empire, until it was destroyed by a massive invasion of barbarian hordes.
+The Confederation of the Wind Dancers, a civilization of highly advanced, winged beings that lived in a network of floating cities, until it was destroyed by a massive storm that swept across the land.
