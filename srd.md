@@ -131,10 +131,9 @@ Players trust one another to engage with the shared setting, character goals, an
 
 ### 1. Ability Scores  
 Player Characters (PCs) have just three attributes:  
-**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. When creating a PC, the player should roll 4d6 keeping the 3 highest result for each of their character's ability scores, in order. They may then swap any two of the results.
+**Strength (STR)**, **Dexterity (DEX)**, and **Willpower (WIL)**. 
 
-> **Example**
-> Ines rolls for her character's **STR**, resulting in a **2**, a **4**, and a **6**, totaling **12**. The next two ability rolls result in a **9** for **DEX** and a **13** for **WIL**. She decides to swap the **12** and the **9**, for a character with **9 STR**, **12 DEX** and **13** **WIL**
+When creating a PC, the player roll 4d6 keeping the 3 highest results for each of their character's ability scores, in order. They may then swap any two of the results.
 
 ### 2. Hit Protection  
 Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. HP does not indicate a character's health or fortitude; nor do they lose it for very long (see **Healing**). If an attack takes a PC's HP exactly to 0, the player must roll on the [**Scars**](/Golden Idol-srd#scars-1) table.
@@ -152,38 +151,40 @@ All PCs begin with:
 The group also have an adequate transport for the mission.
 
 ### 4. Name
-First, choose or roll (1d20) your PC’s **name**
+Choose or roll (1d20) your PC’s **name**
 
 #### Female Names
 
-|     |          |     |         |     |          |     |        |
-| --- | -------- | --- | ------- | --- | -------- | --- | ------ |
-| 1   | Agune    | 6   | Drelil  | 11  | Lirann   | 16  | Sybil  |
-| 2   | Beatrice | 7   | Elgile  | 12  | Lirathil | 17  | Theune |
-| 3   | Breagan  | 8   | Esme    | 13  | Lisabeth | 18  | Wenain |
-| 4   | Bronwyn  | 9   | Griya   | 14  | Moralil  | 19  | Ygwal  |
-| 5   | Cannora  | 10  | Henaine | 15  | Morgwen  | 20  | Yslen  |
+|   |         |    |          |    |          |    |          |
+|---|---------|----|----------|----|----------|----|----------|
+| 1 | Abigail | 6  | Scarlett | 11 | Leah     | 16 | Jodie    |
+| 2 | Ava     | 7  | Sabrina  | 12 | Jimena   | 17 | Amy      |
+| 3 | Elsie   | 8  | Quinn    | 13 | Zariah   | 18 | Lily     |
+| 4 | Maria   | 9  | Aimee    | 14 | Coraline | 19 | Janessa  |
+| 5 | Kayla   | 10 | Isabella | 15 | Mila     | 20 | Vivian   |
 
 
 #### Male Names
 
-|     |         |     |           |     |         |     |          |
-| --- | ------- | --- | --------- | --- | ------- | --- | -------- |
-| 1   | Arwel   | 6   | Breglor   | 11  | Grinwit | 16  | Melnax   |
-| 2   | Bevan   | 7   | Canhoreal | 12  | Gruwid  | 17  | Orthax   |
-| 3   | Boroth  | 8   | Emrys     | 13  | Gruwth  | 18  | Triunein |
-| 4   | Borrid  | 9   | Ethex     | 14  | Gwestin | 19  | Wenlan   |
-| 5   | Breagle | 10  | Gringle   | 15  | Mannog  | 20  | Yirmeor  |
+|     |         |     |        |     |           |     |         |
+| --- | ------- | --- | ------ | --- | --------- | --- | ------- |
+| 1   | Daniel  | 6   | Emmitt | 11  | Mason     | 16  | Deandre |
+| 2   | Connor  | 7   | Ronan  | 12  | Alfie     | 17  | Ahmad   |
+| 3   | Jenson  | 8   | Kaleb  | 13  | Sebastian | 18  | Justus  |
+| 4   | Bradley | 9   | Lennon | 14  | Jamie     | 19  | Keith   |
+| 5   | Callum  | 10  | Abram  | 15  | Charlie   | 20  | Chris   |
+
 
 #### Surnames
 
-|     |            |     |            |     |           |     |          |
-| --- | ---------- | --- | ---------- | --- | --------- | --- | -------- |
-| 1   | Abernathy  | 6   | Crumwaller | 11  | Harper    | 16  | Swinney  |
-| 2   | Addercap   | 7   | Dunswallow | 12  | Loomer    | 17  | Thatcher |
-| 3   | Burl       | 8   | Getri      | 13  | Malksmilk | 18  | Tolmen   |
-| 4   | Candlewick | 9   | Glass      | 14  | Smythe    | 19  | Weaver   |
-| 5   | Cormick    | 10  | Harkness   | 15  | Sunderman | 20  | Wolder   |
+|   |          |    |        |    |          |    |         |
+|---|----------|----|--------|----|----------|----|---------|
+| 1 | Gordon   | 6  | Drake  | 11 | Stevens  | 16 | Morse   |
+| 2 | Johnston | 7  | Avery  | 12 | Lewis    | 17 | Grant   |
+| 3 | Morales  | 8  | Bowman | 13 | Patel    | 18 | Yates   |
+| 4 | Bell     | 9  | Floyd  | 14 | Carter   | 19 | Decker  |
+| 5 | Knight   | 10 | Cooper | 15 | Castillo | 20 | Vasquez |
+
 
 
 ### 5. Archetype
@@ -197,15 +198,6 @@ Choose or roll (1d6) to determine your PC's **archetype**. This informs their po
 6. Hustler
 
 Finally, roll for their **age** (2d20+20).
-
-### Inventory
-Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
-
-Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Referee's discretion.
-
-**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
-
-A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Assistants** can also be paid to carry equipment.
 
 ## Archetypes
 
@@ -233,19 +225,27 @@ Why do you join LARA?
 ### 6. Age
 
 
-## Equipment
+## Inventory & Equipment
+
+Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
+
+Most items take up one slot, and small items can be bundled together. Slots are abstract and can be rearranged per the Referee's discretion.
+
+**Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
+
+A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Assistants** can also be paid to carry equipment.
 
 #### Body Protection
 
-| Protection                       | Cost ($) |
-| -------------------------------- | -------- |
-| Assault Shield (+1 Armor, bulky) | 200      |
-| Bulletproof Vest (Armor 2)       | 220      |
-| Helmet (+1 Armor)                | 730      |
-| Impact Panel (+1 Armor)          | 130      |
-| Riot Armor (Armor 3)             | 700      |
-| Stab panel (+1 Armor)            | 60       |
-| Stab Vest (Armor 1)              | 130      |
+| Protection                          | Cost ($) |
+| ----------------------------------- | -------- |
+| Assault Shield (+1 Armor, bulky)    | 200      |
+| Bulletproof Vest (Armor 2)          | 220      |
+| Helmet (+1 Armor)                   | 730      |
+| Impact Panel (+1 Armor, single-use) | 130      |
+| Riot Armor (Armor 3)                | 700      |
+| Stab panel (+1 Armor, single-use)   | 60       |
+| Stab Vest (Armor 1)                 | 130      |
 
 
 #### Melee Weapons
@@ -264,10 +264,10 @@ Why do you join LARA?
 | Weapon           | Damage | Range  | Cost of ($) |
 | ---------------- | ------ | ------ | ----------- |
 | Crossbow         | 1d6    | Nearby | 200         |
-| Crossbow, pistol | 1d6-1  | Nearby | 50          |
+| Crossbow, pistol | 1d6    | Nearby | 50          |
 | Longbow          | 1d6    | Nearby | 160         |
-| Shuriken         | 1d3    | Close  | 3           |
-| Slingshot        | 1d3    | Close  | 10          |
+| Shuriken         | 1d4    | Close  | 3           |
+| Slingshot        | 1d4    | Close  | 10          |
 
 
 #### Standard Firearms
@@ -279,7 +279,7 @@ Why do you join LARA?
 | Pistol, heavy  | 1d10   | Nearby  | 800   |
 | Machine pistol | 1d6    | Nearby  | 1,200 |
 | Smg            | 1d8    | Nearby  | 2,000 |
-| Rifle          | 1d12   | Distant | 1,000 |
+| Rifle          | 2d10   | Distant | 1,000 |
 | Assault Rifle  | 2d10   | Distant | 5,000 |
 | Shotgun        | 2d6    | Nearby  | 300   |
 
@@ -287,11 +287,11 @@ Why do you join LARA?
 
 | Weapon                  | Damage | Range   | Cost ($) |
 | ----------------------- | ------ | ------- | -------- |
-| Sniper rife             | 1d12   | Distant | 5,000    |
+| Sniper rife             | 1d10   | Distant | 5,000    |
 | Sniper rifle .50        | 2d10   | Distant | 8,000    |
 | Light MG  (blast)       | 2d8    | Distant | 10,000   |
 | Heavy MG (bulky, blast) | 2d10   | Distant | 15,000   |
-| Rocket Launcher (blast) | 2d20   | Distant | 2,200    |
+| Rocket Launcher (blast) | 4d10   | Distant | 2,200    |
 
 #### Explosives
 
@@ -471,9 +471,9 @@ The attacker rolls their weapon die and subtracts the target's armor, then deals
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.
 
 ### Attack Modifiers
-If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll a damage dice one size smaller than the attack damage die.
+If fighting from a position of weakness (such as through cover or with bound hands), the attack is **impaired** and the attacker must roll 1d4 damage regardless of the attacks damage die.
 
-If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll a damage dice one size bigger than their normal die.
+If fighting from a position of advantage (such as against a helpless foe or through a daring maneuver), the attack is **enhanced**, allowing the attacker to roll 1d12 damage instead of their normal die.
 
 ### Dual Damage
 If attacking with two weapons at the same time or the the weapon grants more than one damage dice, roll all damage dice and keep the single highest result.
