@@ -225,7 +225,7 @@ Why do you join LARA?
 ### 6. Age
 
 
-## Inventory & Equipment
+## Inventory
 
 Characters have a total of 10 inventory slots: a backpack with six slots, one slot for each hand, and two slots for their upper body (such as the belt, chest, or head). The backpack can also double as an emergency sleeping bag but only if emptied of its contents.
 
@@ -234,6 +234,8 @@ Most items take up one slot, and small items can be bundled together. Slots are 
 **Bulky** items take up two slots and are typically two-handed or awkward to carry. Anyone carrying a full inventory (i.e. filling all 10 slots) is reduced to 0 HP.
 
 A PC cannot carry more items than their inventory allows. Carts (which must be pulled with both hands), horses, or mules can increase inventory.  **Assistants** can also be paid to carry equipment.
+
+### Equipment
 
 #### Body Protection
 
