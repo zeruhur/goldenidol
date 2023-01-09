@@ -116,16 +116,34 @@ Players trust one another to engage with the shared setting, character goals, an
 ## Principles of the World
 
 ### Adventure
+- Seeking out new and exciting experiences
+- Overcoming challenges and obstacles
+- Exploring unknown or dangerous locations
 
 ### Artifacts
+- Discovering and collecting valuable historical relics
+- Uncovering the mysteries and stories behind each artifact
+- Protecting or selling artifacts for profit
 
 ### Lost Civilization
+- Researching and uncovering the histories of ancient cultures
+- Investigating the causes of their collapse or disappearance
+- Protecting or preserving the relics and artifacts of these civilizations
 
 ### Secret Societies
+- Uncovering the secrets and agendas of secretive organizations
+- Infiltrating or exposing these groups
+- Protecting the world from their potentially dangerous or malicious plans
 
 ### Globetrotting
+- Traveling to exotic and remote locations around the world
+- Adapting to and immersing oneself in different cultures and environments
+- Facing the unique challenges and opportunities of each location
 
-### Unexplained
+### The Unexplained
+- Investigating and seeking answers to mysterious and supernatural occurrences
+- Protecting the world from the dangers of the unknown
+- Studying and learning about the extraordinary and bizarre events and phenomena in the world
 
 ## Character Creation
 
@@ -186,7 +204,6 @@ Choose or roll (1d20) your PC’s **name**
 | 5 | Knight   | 10 | Cooper | 15 | Castillo | 20 | Vasquez |
 
 
-
 ### 5. Archetype
 Choose or roll (1d6) to determine your PC's **archetype**. This informs their potential knowledge and skills.
 
@@ -197,33 +214,182 @@ Choose or roll (1d6) to determine your PC's **archetype**. This informs their po
 5. Pilot
 6. Hustler
 
-Finally, roll for their **age** (2d20+20).
+### 6. Age
+Finally, roll for their **age** (2d20+10).
 
 ## Archetypes
 
-#### Soldier
-Description
+### Soldier
+The Soldier is a trained combatant with experience in various military operations. They excel in fighting and handling weapons, and are well-equipped to handle dangerous situations.
+Starting Gear: The soldier begins the game with a combat knife, a pistol, a bulletproof vest, and a helmet.
 
-Starting Gear
+What your background taught you  
+1. How to handle high-pressure situations and stay calm under fire
+1. How to use a variety of weapons and equipment
+1. How to maintain physical fitness and discipline
+1. How to adapt to changing circumstances and make quick decisions
+1. How to navigate unfamiliar terrain and environments
 
-What your background thaught you?
+In the past, I...  
+1. Fought in a war or conflict
+1. Trained in a military or special forces unit
+1. Completed high-stakes missions or operations
+1. Suffered physical or mental injuries during their service
+1. Built strong relationships with their comrades
+1. Developed a particular area of expertise or specialty
 
-In the past I...
+Why do you joined LARA?  
+1. A sense of duty to protect and serve.
+2. A desire to use their skills and training in a meaningful way.
+3. The opportunity to travel and see new places.
+4. The excitement and thrill of adventure.
+5. The chance to work with a skilled team.
+6. The potential for financial gain.
 
-Why do you join LARA?
+### Archeologist
+The Archeologist is a character who is passionate about history and is skilled in uncovering and studying ancient artifacts. They are experts in their field and bring a unique set of skills to the team.
 
-#### Archeologist
+Starting Gear: The archaeologist begins the game with a map, a compass, a pick, and a journal.
 
-#### Scientist
+What your background taught you  
+1. How to carefully excavate and study ancient artifacts
+1. How to accurately record and document findings
+1. How to analyze and interpret historical data
+1. How to work with a team of researchers and professionals
+1. How to navigate and travel to remote locations
+1. How to stay safe in potentially hazardous environments
 
-#### Specialist
+In the past, I...  
+1. Studied ancient civilizations and cultures
+1. Conducted field research and excavations
+1. Published papers or articles about their findings
+1. Worked for a university or research institution
+1. Built a reputation as an expert in their field
+1. Made important discoveries or contributions to the field of archeology
 
-#### Pilot
+Why do you joined LARA?  
+1. A passion for history and discovery
+1. The opportunity to study and learn about ancient cultures
+1. The chance to work with rare and valuable artifacts
+1. The excitement of exploring uncharted territory
+1. The opportunity to work with a skilled team
+1. The potential for financial gain
 
-#### Hustler
+### Scientist
+The Scientist is a highly educated and analytical individual, with expertise in a particular field of study such as biology, chemistry, or physics. They are skilled at conducting research, analyzing data, and solving complex problems.
 
-### 6. Age
-Finally, roll for their **age** (2d20+10).
+Starting Gear: The scientist begins the game with a laptop, a lab coat, a set of test tubes, and a calculator.
+
+What your background taught you  
+1. How to design and conduct experiments and research studies
+1. How to analyze and interpret data
+1. How to effectively communicate findings through papers and presentations
+1. How to work with a team of researchers and professionals
+1. How to stay up-to-date on current developments in their field
+1. How to think critically and solve problems creatively
+
+In the past, I...  
+1. Conducted research and experiments in a particular field
+1. Published papers or articles about their findings
+1. Worked for a university or research institution
+1. Built a reputation as an expert in their field
+1. Developed a particular area of expertise or specialty
+1. Made important discoveries or contributions to their field of study
+
+Why do you joined LARA?  
+1. A desire to use their knowledge and expertise to make a difference
+2. The opportunity to study and learn about new subjects
+3. The chance to work with advanced technology and equipment
+4. The excitement of solving puzzles and mysteries
+5. The opportunity to work with a skilled team
+6. The potential for financial gain
+
+### Specialist
+The Specialist is a highly trained individual with a specific area of expertise, such as language skills, medical knowledge, or technical expertise. They are able to bring a unique perspective and set of skills to the team, and are valuable members of any expedition.
+
+Starting Gear: The specialist begins the game with a specialized kit relevant to their area of expertise, such as a hacker's laptop or a medic's first aid kit.
+
+#### What your background taught you  
+1. How to identify and capitalize on unique opportunities
+1. How to adapt to changing circumstances and think on their feet
+1. How to stay resourceful and find creative solutions to problems
+1. How to communicate and negotiate effectively
+1. How to stay physically and mentally fit
+1. How to maintain discipline and focus under pressure
+
+#### In the past, I...  
+1. Developed a unique skill or ability
+2. Worked as a freelancer or contractor
+3. Completed high-stakes or dangerous missions
+4. Built a reputation as an expert in their field
+5. Made enemies or rivals through their work
+6. Suffered physical or mental injuries while working
+
+#### Why do you joined LARA?  
+1. A desire to use their unique skills and abilities in a meaningful way
+2. The opportunity to work with a skilled team
+3. The excitement of adventure and danger
+4. The chance to travel and see new places
+5. The potential for financial gain
+6. The opportunity to work with rare and valuable artifacts
+
+### Pilot
+The Pilot is an experienced and skilled aviator, with expertise in operating a variety of aircraft. They are able to navigate difficult terrain and conditions, and are comfortable working under pressure.
+
+Starting Gear: The pilot begins the game with a flight suit, a map, and a radio.
+
+#### What your background taught you  
+1. How to operate and maintain aircraft
+1. How to navigate and fly in different conditions
+1. How to make quick and accurate decisions
+1. How to communicate effectively with air traffic control and other pilots
+1. How to stay calm and level-headed under pressure
+1. How to react appropriately in emergency situations
+
+#### In the past, I...  
+1. Trained as a pilot and gained experience flying various aircraft
+1. Worked for a commercial airline or military unit
+1. Completed high-stakes or dangerous missions
+1. Built a reputation as a skilled pilot
+1. Made enemies or rivals through their work
+1. Suffered physical or mental injuries while flying
+
+#### Why do you joined LARA?  
+1. A love of flying and aircraft
+2. The opportunity to use their piloting skills in a meaningful way
+3. The excitement of adventure and danger
+4. The chance to travel and see new places
+5. The potential for financial gain
+6. The opportunity to work with a skilled team
+
+### Hustler
+The Hustler is a smooth talker and skilled negotiator, able to get what they want through charm and persuasion. They are comfortable working independently and as part of a team, and are skilled at adapting to new environments and situations.
+
+Starting Gear: The hustler begins the game with a set of clothes suitable for a variety of situations, as well as a small amount of cash and a set of lockpicks.
+
+#### What your background taught you  
+1. How to spot and take advantage of opportunities
+1. How to think on their feet and improvise
+1. How to negotiate and communicate effectively
+1. How to stay one step ahead of opponents and rivals
+1. How to stay calm and composed under pressure
+1. How to adapt to changing circumstances and think creatively
+
+#### In the past, I...  
+1. Ran scams or conned people
+1. Worked as a freelancer or contractor
+1. Built a reputation as a cunning and resourceful individual
+1. Made enemies or rivals through their work
+1. Lived a fast-paced and unpredictable lifestyle
+1. Suffered setbacks or failures in their past endeavors
+
+#### Why do you joined LARA?
+1. The potential for financial gain
+2. The opportunity to use their cunning and charm in a meaningful way
+3. The excitement of adventure and danger
+4. The chance to travel and see new places
+5. The opportunity to work with a skilled team
+1. A desire for the thrill of the unknown
 
 ## Inventory
 
@@ -280,7 +446,7 @@ A PC cannot carry more items than their inventory allows. Carts (which must be p
 | Pistol, med    | 1d8    | Nearby  | 500   |
 | Pistol, heavy  | 1d10   | Nearby  | 800   |
 | Machine pistol | 1d6    | Nearby  | 1,200 |
-| Smg            | 1d8    | Nearby  | 2,000 |
+| SMG            | 1d8    | Nearby  | 2,000 |
 | Rifle          | 2d10   | Distant | 1,000 |
 | Assault Rifle  | 2d10   | Distant | 5,000 |
 | Shotgun        | 2d6    | Nearby  | 300   |
@@ -528,9 +694,86 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 ## Creatures & Foes
 
-...
+### **Cougar**
 
-### Creating Monsters
+5 HP, 1 Armor, 8 STR, 8 DEX, 6 WIL, Claws (d6, agile)
+* A sleek, agile predator with piercing green eyes
+* Known for stalking its prey and waiting for the perfect moment to strike
+* On a critical damage save failure, the cougar will latch onto its victim and continue to attack until the victim breaks free or the cougar is killed
+
+
+### **Crocodile**
+
+8 HP, 3 Armor, 12 STR, 6 DEX, 6 WIL, Jaws (d8, bite)
+* A massive reptile with scaly skin and a powerful tail
+* Known for lying in wait and ambushing prey with a sudden burst of speed
+* On a critical damage save failure, the crocodile will drag its victim into the water and hold them underwater until they drown
+
+
+### **Wolf**
+
+4 HP, 1 Armor, 6 STR, 8 DEX, 6 WIL, Claws and teeth (d6, pack hunter)
+* A lean, muscular predator with piercing yellow eyes
+* Known for hunting in packs and coordinating attacks on prey
+* On a critical damage save failure, the wolf will latch onto its victim's throat and not let go until the victim breaks free or the wolf is killed
+
+
+### **Bear**
+
+10 HP, 3 Armor, 14 STR, 6 DEX, 6 WIL, Claws (d8, powerful)
+* A massive, furry predator with sharp claws and teeth
+* Known for its strength and ferocity in protecting its territory
+* On a critical damage save failure, the bear will maul its victim until they are no longer a threat
+
+
+### **Grizzly**
+
+6 HP, 0 Armor, 10 STR, 10 DEX, 8 WIL, Claws (1d8, enhanced attack on critical damage)
+* A massive, powerful brown bear with shaggy fur and sharp claws
+* Known for its ability to stand upright and size itself up against potential threats
+* On a failed critical damage save, the grizzly swipes with both claws for an enhanced attack
+
+
+### **Boa Constrictor**
+
+4 HP, 0 Armor, 8 STR, 14 DEX, 6 WIL, Constriction (1d6, incapacitation on critical damage)
+* A long, muscular snake with smooth scales and a powerful grip
+* Known for its ability to squeeze and suffocate prey with its coils
+* On a failed critical damage save, the victim is incapacitated as they struggle to break free from the boa's grasp
+
+
+### **Rattlesnake**
+
+2 HP, 0 Armor, 6 STR, 14 DEX, 6 WIL, Bite (1d4, poison on hit)
+* A venomous snake with a distinctive rattle on its tail and a quick strike
+* Known for its ability to inject deadly poison with its bite
+* Any successful attack from the rattlesnake injects poison, requiring a WIL save to avoid taking additional damage
+
+
+### **Shark**
+
+8 HP, 0 Armor, 12 STR, 12 DEX, 8 WIL, Jaws (1d10, enhanced attack on critical damage)
+* A sleek and powerful fish with razor sharp teeth and agile movements
+* Known for its ability to sense blood in the water and attack with precision
+* On a failed critical damage save, the shark goes in for a second bite with an enhanced attack
+
+
+### **Tiger**
+
+6 HP, 1 Armor, 10 STR, 14 DEX, 8 WIL, Claws (1d8, enhanced attack on critical damage)
+* A muscular and graceful big cat with bright orange fur and sharp claws
+* Known for its stalking and ambush tactics
+* On a failed critical damage save, the tiger pounces with a powerful claw swipe for an enhanced attack
+
+
+### **Ape**
+
+6 HP, 1 Armor, 12 STR, 10 DEX, 8 WIL, Claws (d6)
+* A massive, muscle-bound ape with a powerful build and long arms ending in sharp claws
+* Known for their intelligence and problem-solving skills, apes are often used as guards or laborers by unscrupulous individuals
+* On a critical hit, the ape will grab its victim and attempt to squeeze the life out of them, requiring a STR save to break free.
+
+### Creating Creatures
 Use the following template to model any more sophisticated Monster or NPC:
 
 **Name**
@@ -542,10 +785,9 @@ X HP, X Armor, X STR, X DEX, X WIL, Weapon (dX, special items, qualities)
 **General Principles**  
 Ability Scores: 3 is deficient, 6 is weak, 10 is average, 14 is noteworthy, and 18 is legendary. Adjust as necessary.  
 - Give average creatures 3 HP, give hardy ones 6 HP, and serious threats get 10+ HP.
-- Use flavor and style to help them stand out. Players will remember a pig-faced humanoid looking for his missing sheep more easily than a generic goblin archer.
+- Use flavor and style to help them stand out.
 - Use critical damage to lean into the threat or strangeness of any aggressive NPC.
 - Remember that HP is **Hit Protection** , not Hit Points. It's a measure of resilience, luck, and gumption - not health.
-
 
 # Rules Summary
 
