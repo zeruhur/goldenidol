@@ -12,9 +12,6 @@ But beware. Secret societies and enemy agencies will get in your way!
 ### Neutrality  
 The Referee's role is to portray the rules, situations, NPCs, and narrative clearly, while acting as a neutral arbiter.
 
-### Classless  
-A character's role or skills are not limited by a single class. Instead, the equipment they carry and their experiences defines their specialty.
-
 ### Death
 Characters may be powerful, but they are also vulnerable to harm in its many forms. Death is always around the corner, but it is never random or without warning.
 
@@ -116,34 +113,34 @@ Players trust one another to engage with the shared setting, character goals, an
 ## Principles of the World
 
 ### Adventure
-- Seeking out new and exciting experiences
-- Overcoming challenges and obstacles
-- Exploring unknown or dangerous locations
+- The team is a group of characters seeking out new and exciting experiences.
+- They band together to overcoming challenges and obstacles.
+- The world is full of unknown and dangerous locations, lost civilizations and their remains.
 
 ### Artifacts
-- Discovering and collecting valuable historical relics
-- Uncovering the mysteries and stories behind each artifact
-- Protecting or selling artifacts for profit
+- Lost civilizations and other parties left behind mysterious and powerful artifacts.
+- They are sought after by others for their inscrutable purposes.
+- Artifacts must be recovered and protected before they fall into the wrong hands.
 
 ### Lost Civilization
-- Researching and uncovering the histories of ancient cultures
-- Investigating the causes of their collapse or disappearance
-- Protecting or preserving the relics and artifacts of these civilizations
+- Human history is a mystery of which only a few pieces are known.
+- There have been dozens if not hundreds of civilizations that have disappeared into oblivion.
+- Many of them remain unknown to the public. Their remains await exploration.
 
 ### Secret Societies
-- Uncovering the secrets and agendas of secretive organizations
-- Infiltrating or exposing these groups
-- Protecting the world from their potentially dangerous or malicious plans
+- There are secret societies and organizations sometimes malevolent sometimes enigmatic.
+- They collect artifacts to study them and reveal their mysterious powers.
+- They are often entrenched in society and will serve any means to achieve their purposes.
 
 ### Globetrotting
-- Traveling to exotic and remote locations around the world
-- Adapting to and immersing oneself in different cultures and environments
-- Facing the unique challenges and opportunities of each location
+- Artifacts are scattered in exotic and remote locations around the world.
+- The team must face the unique challenges and opportunities of each location.
+- It is necessary to adapt to and immerse oneself in different cultures and environments to succeed.
 
 ### The Unexplained
-- Investigating and seeking answers to mysterious and supernatural occurrences
-- Protecting the world from the dangers of the unknown
-- Studying and learning about the extraordinary and bizarre events and phenomena in the world
+- The team will often find itself investigating and seeking answers to mysterious and supernatural occurrences.
+- They will study the extraordinary and bizarre events and phenomena in the world.
+- With they work they protect the world from the malicious use of these phenomena.
 
 ## Character Creation
 
@@ -221,59 +218,63 @@ Finally, roll for their **age** (2d20+10).
 
 ### Soldier
 The Soldier is a trained combatant with experience in various military operations. They excel in fighting and handling weapons, and are well-equipped to handle dangerous situations.
-Starting Gear: The soldier begins the game with a combat knife, a pistol, a bulletproof vest, and a helmet.
 
-What your background taught you  
-1. How to handle high-pressure situations and stay calm under fire
-1. How to use a variety of weapons and equipment
-1. How to maintain physical fitness and discipline
-1. How to adapt to changing circumstances and make quick decisions
-1. How to navigate unfamiliar terrain and environments
+#### Starting Gear
+The soldier begins the game with a combat knife, a special firearm, and a helmet as additional equipment.
 
-In the past, I...  
-1. Fought in a war or conflict
-1. Trained in a military or special forces unit
-1. Completed high-stakes missions or operations
-1. Suffered physical or mental injuries during their service
-1. Built strong relationships with their comrades
-1. Developed a particular area of expertise or specialty
+#### What your background taught you  
+1. Cool-mindedness.
+2. The use of an exotic weapon.
+3. The mastery in closed quarter combat.
+4. To be a master tactician.
+5. To be a master survivalist.
+6. To be a natural born leader.
 
-Why do you joined LARA?  
-1. A sense of duty to protect and serve.
-2. A desire to use their skills and training in a meaningful way.
-3. The opportunity to travel and see new places.
-4. The excitement and thrill of adventure.
-5. The chance to work with a skilled team.
-6. The potential for financial gain.
+#### In the past, I...  
+1. Fought in a nasty war or conflict.
+2. Trained in a special forces unit.
+3. Completed high-stakes operations.
+4. Suffered physical or mental injuries during my service.
+5. Built strong relationships with my comrades.
+6. Developed a particular area of expertise or specialty.
+
+#### Why do you joined LARA?  
+1. They chose me, I accepted.
+2. I wanted to use my skills and training in a meaningful way.
+3. I wanted to travel and see new places.
+4. I love the thrill of adventure.
+5. LARA is the best covert ops team in the world.
+6. My sense of duty urged me to do so.
 
 ### Archeologist
 The Archeologist is a character who is passionate about history and is skilled in uncovering and studying ancient artifacts. They are experts in their field and bring a unique set of skills to the team.
 
-Starting Gear: The archaeologist begins the game with a map, a compass, a pick, and a journal.
+#### Starting Gear
+The archaeologist begins the game with a map, a compass, a pick, and a journal as additional equipment.
 
-What your background taught you  
-1. How to carefully excavate and study ancient artifacts
-1. How to accurately record and document findings
-1. How to analyze and interpret historical data
-1. How to work with a team of researchers and professionals
-1. How to navigate and travel to remote locations
-1. How to stay safe in potentially hazardous environments
+#### What your background taught you  
+1. To carefully excavate and study ancient artifacts.
+2. To accurately record and document findings.
+3. To analyze and interpret historical data.
+4. To work with a team of researchers and professionals.
+5. To navigate and travel to remote locations.
+6. To stay safe in potentially hazardous environments.
 
-In the past, I...  
-1. Studied ancient civilizations and cultures
-1. Conducted field research and excavations
-1. Published papers or articles about their findings
-1. Worked for a university or research institution
-1. Built a reputation as an expert in their field
-1. Made important discoveries or contributions to the field of archeology
+#### In the past, I...  
+1. Studied a specific lost civilizations nobody believe exist.
+2. Conducted field research and excavations.
+3. Published papers or articles about my findings
+4. Worked for a university or research institution.
+5. Built a reputation as an expert in my field.
+6. Made important discoveries or contributions to the field of archeology.
 
-Why do you joined LARA?  
-1. A passion for history and discovery
-1. The opportunity to study and learn about ancient cultures
-1. The chance to work with rare and valuable artifacts
-1. The excitement of exploring uncharted territory
-1. The opportunity to work with a skilled team
-1. The potential for financial gain
+#### Why do you joined LARA?  
+1. I love history and making new discoveries.
+2. There is a mystery concealing the truth. I want to unveil it.
+3. Artifacts are historical evidence of a lost past. I must protect them.
+4. I eager to explore uncharted territory.
+5. I love the potential of this team.
+6. At the university, the pay was not as good as here.
 
 ### Scientist
 The Scientist is a highly educated and analytical individual, with expertise in a particular field of study such as biology, chemistry, or physics. They are skilled at conducting research, analyzing data, and solving complex problems.
@@ -455,7 +456,7 @@ A PC cannot carry more items than their inventory allows. Carts (which must be p
 
 | Weapon                  | Damage | Range   | Cost ($) |
 | ----------------------- | ------ | ------- | -------- |
-| Sniper rife             | 1d10   | Distant | 5,000    |
+| Sniper rifle            | 1d10   | Distant | 5,000    |
 | Sniper rifle .50        | 2d10   | Distant | 8,000    |
 | Light MG  (blast)       | 2d8    | Distant | 10,000   |
 | Heavy MG (bulky, blast) | 2d10   | Distant | 15,000   |
