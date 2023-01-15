@@ -608,7 +608,7 @@ When the PCs encounter an NPC whose reaction to the party is not obvious, the Re
 Enemies must pass a WIL save to avoid fleeing when they take their first casualty and again when they lose half their number. Some groups may use their leader's WIL in place of their own. Lone foes must save when they're reduced to 0 HP. Morale does not affect PCs.
 
 ### Assistants
-PCs can hire **Assistants** to aid them in their expeditions. To create a hireling, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Assistants cost between 1-3gp per day, or a share of whatever treasure the party obtains.
+PCs can hire **Assistants** to aid them in their expeditions. To create a assistant, roll 3d6 for each ability score, then give them 1d6 HP and a simple weapon (d6), then roll on the [**Character Creation**](#character-creation) tables to further flesh them out. Assistants cost between 1-3gp per day, or a share of whatever treasure the party obtains.
 
 ### Wealth & Treasure
 The most common coin is the gold piece (gp), which is equal to 10 silver pieces (sp) and 100 copper pieces (cp).
@@ -666,7 +666,7 @@ Complete DEX and WIL loss renders the character unable to act until they are res
 When damage to a PC reduces their HP to exactly 0, they are sometimes changed irrevocably. See the [**Scars**](/Golden Idol-srd#scars-1) table for more.
 
 ### Unconsciousness & Death
-When a character dies, the player is free to create a new character or take control of a hireling. They immediately join the party in order to reduce downtime.
+When a character dies, the player is free to create a new character or take control of an assistant. They immediately join the party in order to reduce downtime.
 
 ### Detachments
 Large groups of similar combatants fighting together are treated as a single **detachment**. When a detachment takes critical damage, it is routed or significantly weakened. When it reaches 0 STR, it is destroyed.
@@ -767,70 +767,70 @@ When an attack reduces a PC's HP to exactly 0, they are uniquely impacted. Look 
 
 ## Creatures & Foes
 
-### **Cougar**
+### Cougar
 
 5 HP, 1 Armor, 8 STR, 8 DEX, 6 WIL, Claws (d6, agile)
 * A sleek, agile predator with piercing green eyes
 * Known for stalking its prey and waiting for the perfect moment to strike
 * On a critical damage save failure, the cougar will latch onto its victim and continue to attack until the victim breaks free or the cougar is killed
 
-### **Crocodile**
+### Crocodile
 
 8 HP, 3 Armor, 12 STR, 6 DEX, 6 WIL, Jaws (d8, bite)
 * A massive reptile with scaly skin and a powerful tail
 * Known for lying in wait and ambushing prey with a sudden burst of speed
 * On a critical damage save failure, the crocodile will drag its victim into the water and hold them underwater until they drown
 
-### **Wolf**
+### Wolf
 
 4 HP, 1 Armor, 6 STR, 8 DEX, 6 WIL, Claws and teeth (d6, pack hunter)
 * A lean, muscular predator with piercing yellow eyes
 * Known for hunting in packs and coordinating attacks on prey
 * On a critical damage save failure, the wolf will latch onto its victim's throat and not let go until the victim breaks free or the wolf is killed
 
-### **Bear**
+### Bear
 
 10 HP, 3 Armor, 14 STR, 6 DEX, 6 WIL, Claws (d8, powerful)
 * A massive, furry predator with sharp claws and teeth
 * Known for its strength and ferocity in protecting its territory
 * On a critical damage save failure, the bear will maul its victim until they are no longer a threat
 
-### **Grizzly**
+### Grizzly
 
 6 HP, 0 Armor, 10 STR, 10 DEX, 8 WIL, Claws (1d8, enhanced attack on critical damage)
 * A massive, powerful brown bear with shaggy fur and sharp claws
 * Known for its ability to stand upright and size itself up against potential threats
 * On a failed critical damage save, the grizzly swipes with both claws for an enhanced attack
 
-### **Boa Constrictor**
+### Boa Constrictor
 
 4 HP, 0 Armor, 8 STR, 14 DEX, 6 WIL, Constriction (1d6, incapacitation on critical damage)
 * A long, muscular snake with smooth scales and a powerful grip
 * Known for its ability to squeeze and suffocate prey with its coils
 * On a failed critical damage save, the victim is incapacitated as they struggle to break free from the boa's grasp
 
-### **Rattlesnake**
+### Rattlesnake
 
 2 HP, 0 Armor, 6 STR, 14 DEX, 6 WIL, Bite (1d4, poison on hit)
 * A venomous snake with a distinctive rattle on its tail and a quick strike
 * Known for its ability to inject deadly poison with its bite
 * Any successful attack from the rattlesnake injects poison, requiring a WIL save to avoid taking additional damage
 
-### **Shark**
+### Shark
 
 8 HP, 0 Armor, 12 STR, 12 DEX, 8 WIL, Jaws (1d10, enhanced attack on critical damage)
 * A sleek and powerful fish with razor sharp teeth and agile movements
 * Known for its ability to sense blood in the water and attack with precision
 * On a failed critical damage save, the shark goes in for a second bite with an enhanced attack
 
-### **Tiger**
+### Tiger
 
 6 HP, 1 Armor, 10 STR, 14 DEX, 8 WIL, Claws (1d8, enhanced attack on critical damage)
 * A muscular and graceful big cat with bright orange fur and sharp claws
 * Known for its stalking and ambush tactics
 * On a failed critical damage save, the tiger pounces with a powerful claw swipe for an enhanced attack
 
-### **Ape**
+### Ape
 
 6 HP, 1 Armor, 12 STR, 10 DEX, 8 WIL, Claws (d6)
 * A massive, muscle-bound ape with a powerful build and long arms ending in sharp claws
@@ -961,3 +961,37 @@ The Shadow Syndicate is said to have a complex hierarchy and organizational stru
 The Syndicate is said to have its own symbols, rituals, and secret codes, which are used to identify members and to convey information and messages. The Syndicate's symbol is a black, stylized hawk, which is said to represent the organization's stealth and cunning nature.
 
 Despite its secretive and powerful nature, the Shadow Syndicate is shrouded in mystery and legend. Some say that it is a force for good, using its power and resources to protect the world from threats and dangers. Others believe that it is a dangerous and ruthless organization, using its power and influence for its own gain and to further its own agenda. Whatever the truth may be, one thing is certain: the Shadow Syndicate is a force to be reckoned with, and its actions have the potential to shape the course of history.
+
+## Appendix B: Inspirational Media
+
+### Books
+- James Rollins - Sigma Force series, Amazzonia
+- Clive Cussler - Dirk Pitt series
+- Douglas Preston and Lincoln Child - Relic
+- Dan Brown - Robert Langdon series
+
+### Movies
+- Indiana Jones series (1980-)
+- Uncharted (2022)
+- Lara Croft: Tomb Raider (2001)
+- Lara Croft Tomb Raider: The Cradle of Life (2003)
+- Tomb Raider (2018)
+- National Treasure (2004)
+- National Treasure: Book of Secrets (2007)
+- Sahara (2005)
+- The Mummy series (1999-2008)
+
+### TV Series
+- Relic Hunter (1999-2002)
+- Blood & Treasure (2019-)
+- Warehouse 13 (2009-2014)
+- MacGyver (1985-1992)
+- The Librarians (2014-2018)
+- Alias (2001-2006)
+
+### Videogames
+- Tomb Raider series (1997-2003)
+- Tomb Raider series (2004-2009)
+- Tomb Raider series (2013-)
+- Uncharted series (2007-)
+- Assassin's Creed series (2007-2022)
