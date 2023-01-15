@@ -1,6 +1,6 @@
-# Secret Societies
+## Appendix A: Example Secret Societies
 
-## Order of the Crimson Sun
+### Order of the Crimson Sun
 
 The secret society, known as the "Order of the Crimson Sun," is a centuries-old organization shrouded in mystery and legend. Its members are drawn from the upper echelons of society, including the wealthy and powerful, as well as those with exceptional talent and intelligence. The exact purpose and activities of the Order are known only to its members, and it is rumored that they possess ancient knowledge and technology beyond the understanding of the general public.
 
@@ -10,7 +10,7 @@ The headquarters of the Order is located in a hidden underground complex, guarde
 
 Despite its secretive nature, the Order has been known to make its presence known from time to time, sometimes intervening in world events in ways that are not easily understood. Some believe that the Order is working towards a greater good, while others see it as a dangerous and sinister force. Whatever the truth may be, the Order of the Crimson Sun remains an enigma, shrouded in mystery and intrigue.
 
-## Silent Eye
+### Silent Eye
 The secret society is called the "Silent Eye" and is said to date back to ancient Egypt. Its members are chosen for their intelligence, cunning, and discretion, and they are sworn to secrecy about the society's existence. The Eye is devoted to uncovering hidden truths and ancient knowledge, and its members are rumored to possess powerful psychic abilities and advanced technologies. They are said to have infiltrated governments and institutions around the world, and to be working behind the scenes to shape global events. The society's symbol is the eye of Horus, and its members are rumored to be able to communicate telepathically through their shared connection to the Silent Eye.
 
 The Silent Eye is shrouded in mystery and secrecy, even among its members. It is said to have been founded by a group of ancient Egyptian mystics who discovered a powerful source of psychic energy. Over the centuries, the Eye has evolved and adapted, always working to protect and wield this mysterious power.
@@ -21,7 +21,7 @@ The Eye's ultimate goal is to uncover hidden truths and ancient knowledge, and t
 
 Despite its incredible power and influence, the Eye remains shrouded in secrecy. Its members are sworn to secrecy about its existence, and only a select few outside the society know of its true purpose. The Eye's symbol is the eye of Horus, and its members are rumored to be able to communicate telepathically through their shared connection to the Silent Eye.
 
-## The Eternal Flame
+### The Eternal Flame
 
 The secret society I will describe is called the "The Eternal Flame". It is modelled after the Illuminati and Freemasonry, and is said to be a powerful and influential organization that operates in secret to shape the course of history.
 
@@ -35,7 +35,7 @@ The Flame is said to have its own symbols, rituals, and secret handshakes, which
 
 Despite its secretive and powerful nature, The Eternal Flame is shrouded in mystery and legend. Some say that it is a benevolent force for good, while others believe that it is a nefarious and dangerous organization that seeks to control and manipulate the world for its own gain. Whatever the truth may be, one thing is certain: The Eternal Flame is a force to be reckoned with, and its influence and power cannot be underestimated.
 
-## Shadow Syndicate
+### Shadow Syndicate
 
 The secret organization I will describe is called "The Shadow Syndicate." It is modelled after the fictional organization SPECTRE from the James Bond franchise, and is said to be a powerful and secretive group that operates in the shadows to achieve its own goals and objectives.
 
