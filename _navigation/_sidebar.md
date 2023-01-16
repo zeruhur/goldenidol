@@ -17,6 +17,6 @@
 * [Rules Summary](16_rules_summary.md)
 * [Credits](17_credits.md)
 ---
-* [](91_appendix_a_example_secret_societies.md)
-* [](92_appendix_b_inspirational_media.md)
+* [Appendix A: Example Secret Societies](91_appendix_a_example_secret_societies.md)
+* [Appendix B: Inspirational Media](92_appendix_b_inspirational_media.md)
 
