@@ -13,7 +13,7 @@
 * [Site Exploration](12_sites_exploration.md)
 * [30 Artifacts](13_30_artifacts.md)
 * [30 Legendary Places](14_30_legendary_places.md)
-* [Creatues & Foes](15_creatures_foes.md)
+* [Creatures & Foes](15_creatures_foes.md)
 * [Rules Summary](16_rules_summary.md)
 * [Credits](17_credits.md)
 ---
