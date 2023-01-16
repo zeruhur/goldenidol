@@ -15,5 +15,3 @@ This is **Golden Idol**, a hack from [*Cairn*](https://cairnrpg.com) designed to
 <!-- background image -->
 
 ![](/_assets/website_cover.png)
-
-<!-- [Ashcan PDF](https://zeruhur.itch.io/goldenidol) -->
