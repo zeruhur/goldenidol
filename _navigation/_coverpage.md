@@ -14,4 +14,4 @@ This is **Golden Idol**, a hack from [*Cairn*](https://cairnrpg.com) designed to
 
 <!-- background image -->
 
-![](/_assets/website_cover.png)
+![](_assets/website_cover.png)
