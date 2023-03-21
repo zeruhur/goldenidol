@@ -22,7 +22,7 @@
 1. **The Mirror of Truth**: a mirror said to reveal the true nature of anyone who gazes into it, exposing their deepest secrets and hidden motives.
 1. **The Heart of the Sea**: a glowing, pearl-like gem that is said to grant its wielder the power to control the oceans and their inhabitants.
 1. **The Book of Infinity**: an ancient tome that is said to contain the knowledge of the universe and the secrets of time and space.
-1. **The Mirror of Truth**: a mysterious mirror that is said to reveal a person's innermost thoughts and desires, and can be used to manipulate their emotions and actions.
+1. **The Mirror of Soul**: a mysterious mirror that is said to reveal a person's innermost thoughts and desires, and can be used to manipulate their emotions and actions.
 1. **The Golden Chalice of Life**: a golden cup that is said to grant eternal youth and vitality to those who drink from it.
 1. **The Staff of the Elements**: a powerful magical staff that can control and manipulate the four elements of earth, air, fire, and water.
 1. **The Ruby of Fire**: a glowing red gem that is said to grant its wielder the power of pyrokinesis, allowing them to control and manipulate flames.

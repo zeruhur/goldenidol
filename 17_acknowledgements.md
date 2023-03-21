@@ -6,5 +6,6 @@ This game would not have been possible without the work, inspiration and contrib
 - Eugenio Gianniti for the title
 - The [Eclectica GDR](https://t.me/eclecticagdr) Italian community for the valuable support and advice
 - The [NSR Cauldron](https://discord.io/newschoolrevolution) community for the kind support on the project
+- David Lombardo (aka [Awkward Turtle](https://awkwardturtle.itch.io/)) for the The Wallet Site Method, from [Wallet Dungeons](https://awkwardturtle.itch.io/wallet-dungeons) released under CC-BY-4.0 license.
 
 To all of them my deepest gratitude.

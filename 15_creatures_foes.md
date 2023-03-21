@@ -13,7 +13,7 @@
 
 ### Bear
 
-10 HP, 3 Armor, 14 STR, 6 DEX, 6 WIL, Claws (d8, powerful)
+6 HP, 0 Armor, 10 STR, 10 DEX, 8 WIL, Claws (1d8)
 
   - A massive, furry predator with sharp claws and teeth
   - Known for its strength and ferocity in protecting its territory
@@ -22,7 +22,7 @@
 
 ### Boa Constrictor
 
-4 HP, 0 Armor, 8 STR, 14 DEX, 6 WIL, Constriction (1d6, incapacitation
+4 HP, 0 Armor, 15 STR, 10 DEX, 6 WIL, Constriction (1d6, incapacitation
 on critical damage)
 
   - A long, muscular snake with smooth scales and a powerful grip
@@ -32,7 +32,7 @@ on critical damage)
 
 ### Cougar
 
-5 HP, 1 Armor, 8 STR, 8 DEX, 6 WIL, Claws (d6, agile)
+6 HP, 1 Armor, 10 STR, 15 DEX, 6 WIL, Claws (d6, agile)
 
   - A sleek, agile predator with piercing green eyes
   - Known for stalking its prey and waiting for the perfect moment to
@@ -74,7 +74,7 @@ critical damage)
 
 ### Grizzly
 
-6 HP, 0 Armor, 10 STR, 10 DEX, 8 WIL, Claws (1d8, enhanced attack on
+10 HP, 3 Armor, 14 STR, 6 DEX, 6 WIL, Claws (d8, enhanced attack on
 critical damage)
 
   - A massive, powerful brown bear with shaggy fur and sharp claws
@@ -82,16 +82,6 @@ critical damage)
     potential threats
   - On a failed critical damage save, the grizzly swipes with both claws
     for an enhanced attack
-
-### Hippopotamus
-
-15 HP, 4 Armor, 16 STR, 8 DEX, 6 WIL, Jaws (d8, enhanced attack on
-critical damage)
-
-  - A large, amphibious mammal with thick skin and powerful jaws
-  - Known for its aggressive nature and territorial tendencies
-  - On a critical damage save failure, the hippopotamus will bite down
-    with an enhanced attack
 
 ### Hippopotamus
 
@@ -126,7 +116,7 @@ critical damage)
 
 ### Python
 
-6 HP, 0 Armor, 10 STR, 14 DEX, 6 WIL, Constriction (d6)
+6 HP, 0 Armor, 12 STR, 10 DEX, 6 WIL, Constriction (d6)
 
   - A long, muscular snake with smooth scales and a powerful grip
   - Known for its ability to squeeze and suffocate prey with its coils
@@ -135,7 +125,7 @@ critical damage)
 
 ### Rattlesnake
 
-2 HP, 0 Armor, 6 STR, 14 DEX, 6 WIL, Bite (1d4, poison on hit)
+2 HP, 0 Armor, 10 STR, 8 DEX, 6 WIL, Bite (1d4, poison on hit)
 
   - A venomous snake with a distinctive rattle on its tail and a quick
     strike

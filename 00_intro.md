@@ -1,4 +1,4 @@
-# Golden Idol System Reference Document (v.0.1)
+# Golden Idol System Reference Document (v.0.9)
 
 **Golden Idol** is an adventure game set in the modern world. You are members of LARA (Legendary Artifacts Recovery Agency), charged with discovering and finding valuable artifacts around the world in remote places, among the ruins of lost civilizations. 
 But beware. Secret societies and enemy agencies will get in your way!
