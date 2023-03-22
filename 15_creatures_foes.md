@@ -213,17 +213,6 @@ hit)
   - On a critical damage save failure, the executive will use their vast
     resources and connections to escape and flee the scene.
 
-### Corporate Executive
-
-6 HP, 0 Armor, 8 STR, 12 DEX, 12 WIL, Briefcase (d4, business savvy)
-
-  - A powerful and influential businessman or woman, dressed in a
-    tailored suit.
-  - Known for their cutthroat business tactics and ability to manipulate
-    the system to their advantage.
-  - On a critical damage save failure, the executive will use their vast
-    resources and connections to escape and flee the scene.
-
 ### Cultist
 
 6 HP, 0 Armor, 10 STR, 8 DEX, 12 WIL, Ritual Knife (d6, holy)
