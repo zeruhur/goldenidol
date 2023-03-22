@@ -1,4 +1,6 @@
-## Appendix A: Example Secret Societies
+## Appendix A: Secret Societies
+
+The following secret societies are mentioned in the adventure generation tables. You can consider them as evocative names only, or use the following summaries. They are just simple examples of what you can build by mining from your experience.
 
 ### Order of the Crimson Sun
 

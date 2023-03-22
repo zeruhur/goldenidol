@@ -11,14 +11,8 @@ Each round, the PCs declare what they are doing before dice are rolled. If a cha
 ### Turns
 The Referee will telegraph the most likely actions taken by NPCs or monsters. At the start of combat, each PC must make a DEX save to act before their opponents.
 
-> **Example**
-> _Bea has accidentally stumbled onto the stomping grounds of a massive Wood Troll. In order to make a move before the Troll, she makes a DEX save. She fails, and the Troll gets to attack first._
-
 ### Attacking & Damage
 The attacker rolls their weapon die and subtracts the target's armor, then deals the remaining total to their opponent's HP. Unarmed attacks always do 1d4 damage.
-
-> **Example**
-> _The Wood Troll roars, swinging its club at Bea, who has 5 HP. The club does 1d10 damage and the Referee rolls a 4. They subtract 1 to account for Bea's  leather armor, leaving Bea with 2 HP remaining_.
 
 ### Multiple Attackers  
 If multiple attackers target the same foe, roll all damage dice and keep the single highest result.

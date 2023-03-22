@@ -1,7 +1,8 @@
 ## Gobletrotting
 
 ### Get Inspired
-1. **Research the location**: Get a sense of the culture, history, and geography of the location. This will help you create a believable and immersive setting for the adventure.
+Here are some suggestions for building your adventure:
+1. **Research the places involved**: Get a sense of the culture, history, and geography of the places the characters will visit. This will help you create a believable and immersive setting for the adventure.
 2. **Make use of the Pointcrawl model**: This model emphasizes the use of points of interest, rather than a linear path, to guide the players through the adventure. This allows for greater flexibility and player agency in the way the adventure unfolds.
 3. **Create a variety of challenges and obstacles**: As the players travel to different locations, they should encounter a variety of challenges that reflect the unique aspects of each location. These can include environmental hazards, cultural barriers, or conflicts with locals.
 4. **Incorporate artifacts and lost civilizations**: The primary goal of the players is to discover and recover artifacts, so make sure to include opportunities for them to do so in the adventure. Lost civilizations and their remains can also be a source of interesting puzzles and mysteries for the players to solve.
@@ -52,7 +53,8 @@ By using these mechanical rules, you can randomly generate a unique and exciting
 ### A More Cinematic Guideline
 Golden Idol is a "fiction first" game where events and situations interacting with characters through their actions make a narrative emerge.
 This is why I strongly advise against writing a "plot" for the characters to follow: create situations and obstacles and let events unfold.
-But if you can't resist the temptation to at least give the adventure an outline structure, consider the following suggestions for a classic three-act story.
+But if you can't resist the temptation to at least give the adventure an outline, consider the following suggestions for a classic three-act story.
+
 I just urge you not to consider them rigid or mandatory.
 
 1. Introduction:
@@ -100,7 +102,7 @@ Then consult the tables below to inspire the situations, objectives or obstacles
     6. The Staff of Osiris
     7. The Ring of the Dragon
     8. The Ruby of Fire
-- D10: The Clue Item
+- D10: The Clue
   1. A cryptic map with obscure markings and symbols.
   2. A small, intricately-carved figurine that seems to point the way.
   3. A torn piece of parchment with a vital clue.
