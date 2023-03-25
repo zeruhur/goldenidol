@@ -10,8 +10,6 @@ But beware. Secret societies and enemy agencies will get in your way\!
 
 **Golden Idol** is based on [*Cairn*](https://cairnrpg.com) by Yochai Gal and licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
-System Reference Document v.0.9.0
-
 ## Overview
 
 **Golden Idol** was written with the following design philosophies in mind:
@@ -280,7 +278,7 @@ The soldier begins the game with a combat knife, a special firearm, and a helmet
 5.  Built strong relationships with my comrades.
 6.  Developed a particular area of expertise or specialty.
 
-#### Why do you joined LARA?
+#### Why did you join LARA?
 
 1.  They chose me, I accepted.
 2.  I wanted to use my skills and training in a meaningful way.
@@ -315,7 +313,7 @@ The archaeologist begins the game with a map, a compass, a pick, and a journal a
 5.  Built a reputation as an expert in my field.
 6.  Made important discoveries or contributions to the field of archeology.
 
-#### Why do you joined LARA?
+#### Why did you join LARA?
 
 1.  I love history and making new discoveries.
 2.  There is a mystery concealing the truth. I want to unveil it.
@@ -350,7 +348,7 @@ The scientist begins the game with a laptop, a lab coat, a set of test tubes, an
 5.  Specialized in a fringe science.
 6.  Made a risky experiment fail spectacularly.
 
-#### Why do you joined LARA?
+#### Why did you join LARA?
 
 1.  I wanted to learn more about fringe science.
 2.  Artifacts are the new frontier of science.
@@ -369,12 +367,12 @@ The specialist begins the game with a specialized kit relevant to their area of 
 
 #### What your background taught you
 
-1.  Identify and capitalize on unique opportunities
-2.  Adapt to changing circumstances and think on my feet
-3.  Stay resourceful and find creative solutions to problems
-4.  Communicate and negotiate effectively
-5.  Stay physically and mentally fit
-6.  Maintain discipline and focus under pressure
+1.  Identify and capitalize on unique opportunities.
+2.  Adapt to changing circumstances and think on my feet.
+3.  Stay resourceful and find creative solutions to problems.
+4.  Communicate and negotiate effectively.
+5.  Stay physically and mentally fit.
+6.  Maintain discipline and focus under pressure.
 
 #### In the past, I…
 
@@ -385,7 +383,7 @@ The specialist begins the game with a specialized kit relevant to their area of 
 5.  Made enemies or rivals through my work.
 6.  Suffered physical or mental injuries while working.
 
-#### Why do you joined LARA?
+#### Why did you join LARA?
 
 1.  I wanted to use my unique skills in a meaningful way
 2.  I wanted to make myself available to an experienced team for the greater good.
@@ -420,12 +418,12 @@ The pilot begins the game with a flight suit, a map, and a radio as additional e
 5.  Made enemies or rivals through my work.
 6.  Suffered physical or mental injuries while flying.
 
-#### Why do you joined LARA?
+#### Why did you join LARA?
 
 1.  Air is my element. And the planes make me dive into it.
 2.  They said they needed pilots, so I thought I’d start settling debts with society.
 3.  Excitement and danger are like a drug to me
-4.  There are still corners of the world I don’t know….
+4.  There are still corners of the world I don’t know…
 5.  A freelance pilot earns significantly less than what LARA offers.
 6.  I enjoy working in teams and transporting my teammates wherever they need.
 
@@ -455,7 +453,7 @@ The hustler begins the game with a set of clothes suitable for a variety of situ
 5.  Lived a fast-paced and unpredictable lifestyle.
 6.  Suffered setbacks or failures in my past endeavors.
 
-#### Why do you joined LARA?
+#### Why did you join LARA?
 
 1.  They know that if they don’t pay me enough I might sell everything back to the highest bidder.
 2.  I have the opportunity to make amends for my dissolute and criminal life.
@@ -783,52 +781,70 @@ When an attack reduces a PC’s HP to exactly 0, they are uniquely impacted. Loo
 ### Get Inspired
 
 Here are some suggestions for building your adventure:
-1\. **Research the places involved**: Get a sense of the culture, history, and geography of the places the characters will visit. This will help you create a believable and immersive setting for the adventure.
-2\. **Make use of the Pointcrawl model**: This model emphasizes the use of points of interest, rather than a linear path, to guide the players through the adventure. This allows for greater flexibility and player agency in the way the adventure unfolds.
-3\. **Create a variety of challenges and obstacles**: As the players travel to different locations, they should encounter a variety of challenges that reflect the unique aspects of each location. These can include environmental hazards, cultural barriers, or conflicts with locals.
-4\. **Incorporate artifacts and lost civilizations**: The primary goal of the players is to discover and recover artifacts, so make sure to include opportunities for them to do so in the adventure. Lost civilizations and their remains can also be a source of interesting puzzles and mysteries for the players to solve.
-5\. **Consider the impact of secret societies and organizations**: These groups can provide a source of conflict and tension throughout the adventure, as they may be working against the players to acquire the same artifacts.
+
+1.  **Research the places involved**: Get a sense of the culture, history, and geography of the places the characters will visit. This will help you create a believable and immersive setting for the adventure.
+2.  **Make use of the Pointcrawl model**: This model emphasizes the use of points of interest, rather than a linear path, to guide the players through the adventure. This allows for greater flexibility and player agency in the way the adventure unfolds.
+3.  **Create a variety of challenges and obstacles**: As the players travel to different locations, they should encounter a variety of challenges that reflect the unique aspects of each location. These can include environmental hazards, cultural barriers, or conflicts with locals.
+4.  **Incorporate artifacts and lost civilizations**: The primary goal of the players is to discover and recover artifacts, so make sure to include opportunities for them to do so in the adventure. Lost civilizations and their remains can also be a source of interesting puzzles and mysteries for the players to solve.
+5.  **Consider the impact of secret societies and organizations**: These groups can provide a source of conflict and tension throughout the adventure, as they may be working against the players to acquire the same artifacts.
 
 ### Adventure Creation Guidelines
 
 If you run out of ideas use the guidelines below for inspiration or make your adventure from scratch:
-1\. **Determine the location of the adventure**: Roll a d100 to randomly select a location from a list of possible locations around the world. Some examples could include:
-\- 1-10: Amazon Rainforest
-\- 11-20: Antarctica
-\- 21-30: Egypt
-\- 31-40: Himalayas
-\- 41-50: Iceland
-\- 51-60: Madagascar
-\- 61-70: New Guinea
-\- 71-80: Norway
-\- 81-90: Sahara Desert
-\- 91-100: Underwater (shipwreck or underwater city)
-2\. **Determine the main objective of the adventure**: Roll a d20 to randomly select a main objective for the adventure. Some examples could include:
-\- 1-2: Recover a powerful artifact from a lost civilization
-\- 3-4: Investigate strange supernatural occurrences in the area
-\- 5-6: Rescue a team member or ally who has gone missing
-\- 7-8: Stop a secret society from acquiring a powerful artifact
-\- 9-10: Map an uncharted area
-\- 11-12: Discover a lost city or civilization
-\- 13-14: Find a valuable resource
-\- 15-16: Rescue hostages or prisoners
-\- 17-18: Sabotage enemy operations
-\- 19-20: Escape a dangerous situation
-3\. **Determine the challenges and obstacles**: Roll a d12 to randomly select a type of challenge or obstacle that the players will encounter during the adventure. Some examples could include:
-\- 1-2: Environmental hazards (e.g. extreme temperatures, treacherous terrain)
-\- 3-4: Conflicts with locals (e.g. hostile tribes, bandits)
-\- 5-6: Puzzles and riddles to solve
-\- 7-8: Traps and obstacles to navigate
-\- 9-10: Conflicts with other teams or organizations
-\- 11-12: Supernatural or unexplained phenomena
-4\. **Incorporate secret societies or organizations**: Roll a d6 to determine if the adventure will involve a secret society or organization, and if so, roll another d6 to determine which one:
-\- 1. The Brotherhood of the Dragon
-\- 2. The Cult of the Mummy
-\- 3. The Order of the Phoenix
-\- 4. The Society of the Serpent
-\- 5. The Brotherhood of the Obsidian Moon
-\- 6. The Children of the Celestial Flame
-5\. **Repeat steps 2-4 as necessary** to generate additional challenges and obstacles.
+
+1.  **Determine the location of the adventure**: Roll a d10 to randomly select a location from a list of possible locations around the world.
+
+|    |                                           |
+| -- | ----------------------------------------- |
+| 1  | Amazon Rainforest                         |
+| 2  | Antarctica                                |
+| 3  | Egypt                                     |
+| 4  | Himalayas                                 |
+| 5  | Iceland                                   |
+| 6  | Madagascar                                |
+| 7  | New Guinea                                |
+| 8  | Norway                                    |
+| 9  | Sahara Desert                             |
+| 10 | Underwater (shipwreck or underwater city) |
+
+2.  **Determine the main objective of the adventure**: Roll a d10 to randomly select a main objective for the adventure.
+
+|    |                                                          |
+| -- | -------------------------------------------------------- |
+| 1  | Recover a powerful artifact from a lost civilization     |
+| 2  | Investigate strange supernatural occurrences in the area |
+| 3  | Rescue a team member or ally who has gone missing        |
+| 4  | Stop a secret society from acquiring a powerful artifact |
+| 5  | Map an uncharted area                                    |
+| 6  | Discover a lost city or civilization                     |
+| 7  | Find a valuable resource                                 |
+| 8  | Rescue hostages or prisoners                             |
+| 9  | Sabotage enemy operations                                |
+| 10 | Escape a dangerous situation                             |
+
+3.  **Determine the challenges and obstacles**: Roll a d6 to randomly select a type of challenge or obstacle that the players will encounter during the adventure.
+
+|   |                                                                        |
+| - | ---------------------------------------------------------------------- |
+| 1 | Environmental hazards (e.g. extreme temperatures, treacherous terrain) |
+| 2 | Conflicts with locals (e.g. hostile tribes, bandits)                   |
+| 3 | Puzzles and riddles to solve                                           |
+| 4 | Traps and obstacles to navigate                                        |
+| 5 | Conflicts with other teams or organizations                            |
+| 6 | Supernatural or unexplained phenomena                                  |
+
+4.  **Incorporate secret societies or organizations**: Roll a d6 to determine which secret society or organization the adventure will involve:
+
+|   |                                      |
+| - | ------------------------------------ |
+| 1 | The Brotherhood of the Dragon        |
+| 2 | The Cult of the Mummy                |
+| 3 | The Order of the Phoenix             |
+| 4 | The Society of the Serpent           |
+| 5 | The Brotherhood of the Obsidian Moon |
+| 6 | The Children of the Celestial Flame  |
+
+5.  **Repeat steps 2-4 as necessary** to generate additional challenges and obstacles.
 
 By using these mechanical rules, you can randomly generate a unique and exciting globetrotting adventure in Golden Idol that incorporates the key elements of the game, such as artifacts, lost civilizations, secret societies, and the unexplained and supernatural.
 
@@ -864,127 +880,160 @@ I just urge you not to consider them rigid or mandatory.
 Take the World Map provided with the rulebook and roll a full set of polyhedral dice (d4, d6, d8, d10, d12, d20) on it.
 Then consult the tables below to inspire the situations, objectives or obstacles the heroes will face in that place in the world.
 
-  - D4: The Opening
-    1.  A mysterious letter arrives, inviting the player to a secret location.
-    2.  A wealthy patron hires the player to find a lost artifact.
-    3.  The player stumbles across a map to a hidden treasure.
-    4.  A long-lost friend or family member asks the player for help on a dangerous mission.
-  - D6: The Enticing Incident
-    1.  The players are ambushed by a rival organization.
-    2.  The players discover a secret passage leading to an ancient temple.
-    3.  The players are confronted by a powerful guardian protecting the artifact.
-    4.  The players must solve a complex puzzle to proceed.
-    5.  The players are caught in a dangerous trap that must be disarmed.
-    6.  The players discover a hidden cache of valuable resources.
-  - D8: The Artifact
-    1.  The Spear of Destiny
-    2.  The Amulet of the Phoenix
-    3.  The Crown of Avalon
-    4.  The Armor of the Gods
-    5.  The Scepter of Time
-    6.  The Staff of Osiris
-    7.  The Ring of the Dragon
-    8.  The Ruby of Fire
-  - D10: The Clue
-    1.  A cryptic map with obscure markings and symbols.
-    2.  A small, intricately-carved figurine that seems to point the way.
-    3.  A torn piece of parchment with a vital clue.
-    4.  A fragment of an ancient tablet with a mysterious inscription.
-    5.  A piece of jewelry or ornament with a hidden meaning.
-    6.  A strange artifact with unknown powers.
-    7.  A set of ancient keys or codes that unlock hidden doors.
-    8.  A book or tome with vital information.
-    9.  A compass or navigational device with unusual properties.
-    10. A rare gemstone or mineral with special properties.
-  - D12: The Artifact Location
-    1.  A remote island.
-    2.  The depths of a forest.
-    3.  A desolate heathland.
-    4.  A frozen waste.
-    5.  Ancient ruins.
-    6.  A sprawling city.
-    7.  A jungle.
-    8.  A mountain range.
-    9.  An abandoned city.
-    10. Wilds.
-    11. Plains.
-    12. The coast of a hidden island or continent.
-  - D20: The Enemy Operative Base
-    1.  A hidden fortress in the mountains.
-    2.  An underground labyrinth of tunnels and chambers.
-    3.  A sprawling compound in the jungle.
-    4.  A floating base hidden in the clouds.
-    5.  An abandoned temple or ruins.
-    6.  A heavily-guarded mansion or estate.
-    7.  A secret laboratory or research facility.
-    8.  A military stronghold or base.
-    9.  A hidden dock or harbor.
-    10. A hidden cave system.
-    11. A high-tech headquarters in a populous city.
-    12. A secluded monastery or temple.
-    13. A hidden city in the desert.
-    14. A hidden base on a remote island.
-    15. A massive, underground bunker system.
-    16. A sprawling network of catacombs and sewers.
-    17. A heavily fortified castle or fortress.
-    18. A hidden base on a massive airship.
-    19. A hidden base on a massive sea vessel.
-    20. A floating base in the middle of the ocean.
+| d4 | The Opening                                                                          |
+| -- | ------------------------------------------------------------------------------------ |
+| 1  | A mysterious letter arrives, inviting the player to a secret location.               |
+| 2  | A wealthy patron hires the player to find a lost artifact.                           |
+| 3  | The player stumbles across a map to a hidden treasure.                               |
+| 4  | A long-lost friend or family member asks the player for help on a dangerous mission. |
+
+| d6 | The Enticing Incident                                                      |
+| -- | -------------------------------------------------------------------------- |
+| 1  | The players are ambushed by a rival organization.                          |
+| 2  | The players discover a secret passage leading to an ancient temple.        |
+| 3  | The players are confronted by a powerful guardian protecting the artifact. |
+| 4  | The players must solve a complex puzzle to proceed.                        |
+| 5  | The players are caught in a dangerous trap that must be disarmed.          |
+| 6  | The players discover a hidden cache of valuable resources.                 |
+
+| d8 | The Artifact              |
+| -- | ------------------------- |
+| 1  | The Spear of Destiny      |
+| 2  | The Amulet of the Phoenix |
+| 3  | The Crown of Avalon       |
+| 4  | The Armor of the Gods     |
+| 5  | The Scepter of Time       |
+| 6  | The Staff of Osiris       |
+| 7  | The Ring of the Dragon    |
+| 8  | The Ruby of Fire          |
+
+| d10 | The Clue                                                          |
+| --- | ----------------------------------------------------------------- |
+| 1   | A cryptic map with obscure markings and symbols.                  |
+| 2   | A small, intricately-carved figurine that seems to point the way. |
+| 3   | A torn piece of parchment with a vital clue.                      |
+| 4   | A fragment of an ancient tablet with a mysterious inscription.    |
+| 5   | A piece of jewelry or ornament with a hidden meaning.             |
+| 6   | A strange artifact with unknown powers.                           |
+| 7   | A set of ancient keys or codes that unlock hidden doors.          |
+| 8   | A book or tome with vital information.                            |
+| 9   | A compass or navigational device with unusual properties.         |
+| 10  | A rare gemstone or mineral with special properties.               |
+
+| d12 | The Artifact Location                      |
+| --- | ------------------------------------------ |
+| 1   | A remote island.                           |
+| 2   | The depths of a forest.                    |
+| 3   | A desolate heathland.                      |
+| 4   | A frozen waste.                            |
+| 5   | Ancient ruins.                             |
+| 6   | A sprawling city.                          |
+| 7   | A jungle.                                  |
+| 8   | A mountain range.                          |
+| 9   | An abandoned city.                         |
+| 10  | Wilds.                                     |
+| 11  | Plains.                                    |
+| 12  | The coast of a hidden island or continent. |
+
+| d20 | The Enemy Operative Base                          |
+| --- | ------------------------------------------------- |
+| 1   | A hidden fortress in the mountains.               |
+| 2   | An underground labyrinth of tunnels and chambers. |
+| 3   | A sprawling compound in the jungle.               |
+| 4   | A floating base hidden in the clouds.             |
+| 5   | An abandoned temple or ruins.                     |
+| 6   | A heavily-guarded mansion or estate.              |
+| 7   | A secret laboratory or research facility.         |
+| 8   | A military stronghold or base.                    |
+| 9   | A hidden dock or harbor.                          |
+| 10  | A hidden cave system.                             |
+| 11  | A high-tech headquarters in a populous city.      |
+| 12  | A secluded monastery or temple.                   |
+| 13  | A hidden city in the desert.                      |
+| 14  | A hidden base on a remote island.                 |
+| 15  | A massive, underground bunker system.             |
+| 16  | A sprawling network of catacombs and sewers.      |
+| 17  | A heavily fortified castle or fortress.           |
+| 18  | A hidden base on a massive airship.               |
+| 19  | A hidden base on a massive sea vessel.            |
+| 20  | A floating base in the middle of the ocean.       |
 
 ## Sites Exploration
 
 ### Get Inspired
 
 Here are some suggestions for building your exploration site:
-1\. **Research the site**: Just like with globetrotting adventures, research the history and culture of the site to create a believable and immersive setting.
-2\. **Incorporate puzzles and mysteries**: Many lost civilizations and ancient sites are full of puzzles and mysteries for the players to solve. These can include deciphering inscriptions, navigating mazes, or solving riddles.
-3\. **Create a sense of danger**: The players are exploring ancient and potentially dangerous ruins, so make sure to include hazards and traps that can put them in danger.
-4\. **Incorporate supernatural elements**: The unexplained and supernatural is a key element of the game, so consider including elements of the supernatural in the adventure, such as cursed artifacts or supernatural guardians.
-5\. **Incorporate conflicts with secret societies and organizations**: Just like in globetrotting adventures, these groups can provide a source of conflict and tension as they may be working against the players to acquire the same artifacts.
+
+1.  **Research the site**: Just like with globetrotting adventures, research the history and culture of the site to create a believable and immersive setting.
+2.  **Incorporate puzzles and mysteries**: Many lost civilizations and ancient sites are full of puzzles and mysteries for the players to solve. These can include deciphering inscriptions, navigating mazes, or solving riddles.
+3.  **Create a sense of danger**: The players are exploring ancient and potentially dangerous ruins, so make sure to include hazards and traps that can put them in danger.
+4.  **Incorporate supernatural elements**: The unexplained and supernatural is a key element of the game, so consider including elements of the supernatural in the adventure, such as cursed artifacts or supernatural guardians.
+5.  **Incorporate conflicts with secret societies and organizations**: Just like in globetrotting adventures, these groups can provide a source of conflict and tension as they may be working against the players to acquire the same artifacts.
 
 ### Site Creation Guidelines
 
 If you run out of ideas use the guidelines below for inspiration or build the site from scratch:
-1\. **Determine the type of site**: Roll a d12 to randomly select the type of site the adventure will take place in.
-\* 1-2: Abandoned Temple
-\* 3-4: Underwater City
-\* 5-6: Lost City
-\* 7-8: Tomb
-\* 9-10: Laboratory
-\* 11-12: Cave system
-2\. **Determine the main objective of the adventure**: Roll a d20 to randomly select a main objective for the adventure.
-\* 1-2: Recover a powerful artifact from the site
-\* 3-4: Investigate strange supernatural occurrences in the site
-\* 5-6: Rescue a team member or ally who has gone missing
-\* 7-8: Stop a secret society from acquiring a powerful artifact
-\* 9-10: Map the site
-\* 11-12: Discover the purpose or history of the site
-\* 13-14: Find a valuable resource
-\* 15-16: Rescue hostages or prisoners
-\* 17-18: Sabotage enemy operations
-\* 19-20: Escape a dangerous situation
-3\. **Determine the layout of the site**: Roll a d6 to randomly select the layout of the site.
-\* 1: Linear
-\* 2: Maze-like
-\* 3: Open with multiple levels
-\* 4: Split into multiple connected areas
-\* 5: A mix of the above
-\* 6: Roll twice and combine
-4\. **Determine the challenges and obstacles**: Roll a d12 to randomly select a type of challenge or obstacle that the players will encounter during the adventure.
-\* 1-2: Environmental hazards (e.g. flooding, cave-ins)
-\* 3-4: Conflicts with ancient guardians or traps
-\* 5-6: Puzzles and riddles to solve
-\* 7-8: Navigation challenges (e.g. dark, underwater)
-\* 9-10: Conflicts with other teams or organizations
-\* 11-12: Supernatural or unexplained phenomena
-5\. **Incorporate secret societies or organizations**: Roll a d6 to determine if the adventure will involve a secret society or organization, and if so, roll another d6 to determine which one:
-1\. The Brotherhood of the Dragon
-2\. The Cult of the Mummy
-3\. The Order of the Phoenix
-4\. The Society of the Serpent
-5\. The Brotherhood of the Obsidian Moon
-6\. The Children of the Celestial Flame
-6\. **Repeat steps 2-5** as necessary to generate additional challenges and obstacles.
+
+1.  **Determine the type of site**: Roll a d6 to randomly select the type of site the adventure will take place in.
+
+|   |                  |
+| - | ---------------- |
+| 1 | Abandoned Temple |
+| 2 | Underwater City  |
+| 3 | Lost City        |
+| 4 | Tomb             |
+| 5 | Laboratory       |
+| 6 | Cave system      |
+
+2.  **Determine the main objective of the adventure**: Roll a d10 to randomly select a main objective for the adventure.
+
+|    |                                                          |
+| -- | -------------------------------------------------------- |
+| 1  | Recover a powerful artifact from the site                |
+| 2  | Investigate strange supernatural occurrences in the site |
+| 3  | Rescue a team member or ally who has gone missing        |
+| 4  | Stop a secret society from acquiring a powerful artifact |
+| 5  | Map the site                                             |
+| 6  | Discover the purpose or history of the site              |
+| 7  | Find a valuable resource                                 |
+| 8  | Rescue hostages or prisoners                             |
+| 9  | Sabotage enemy operations                                |
+| 10 | Escape a dangerous situation                             |
+
+3.  **Determine the layout of the site**: Roll a d6 to randomly select the layout of the site.
+
+|   |                                     |
+| - | ----------------------------------- |
+| 1 | Linear                              |
+| 2 | Maze-like                           |
+| 3 | Open with multiple levels           |
+| 4 | Split into multiple connected areas |
+| 5 | A mix of the above                  |
+| 6 | Roll twice and combine              |
+
+4.  **Determine the challenges and obstacles**: Roll a d6 to randomly select a type of challenge or obstacle that the players will encounter during the adventure.
+
+|   |                                                 |
+| - | ----------------------------------------------- |
+| 1 | Environmental hazards (e.g. flooding, cave-ins) |
+| 2 | Conflicts with ancient guardians or traps       |
+| 3 | Puzzles and riddles to solve                    |
+| 4 | Navigation challenges (e.g. dark, underwater)   |
+| 5 | Conflicts with other teams or organizations     |
+| 6 | Supernatural or unexplained phenomena           |
+
+5.  **Incorporate secret societies or organizations**: Roll a d6 to determine if the adventure will involve a secret society or organization, and if so, roll another d6 to determine which one:
+
+|   |                                      |
+| - | ------------------------------------ |
+| 1 | The Brotherhood of the Dragon        |
+| 2 | The Cult of the Mummy                |
+| 3 | The Order of the Phoenix             |
+| 4 | The Society of the Serpent           |
+| 5 | The Brotherhood of the Obsidian Moon |
+| 6 | The Children of the Celestial Flame  |
+
+6.  **Repeat steps 2-5** as necessary to generate additional challenges and obstacles.
 
 You could also make the society’s headquarters or one of their hidden bases the location of the Site Exploration, with the objective to infiltrate, steal information or artifact from them, or sabotage their plans.
 
@@ -992,61 +1041,64 @@ You could also make the society’s headquarters or one of their hidden bases th
 
 Create the site by rolling a handful of d6s and assemble based on results:
 
-  - 1: Dead End: Cannot touch more than 1 die
-  - 2: Passage: Cannot touch more than 2 dice
-  - 3: Split: Cannot touch more than 3 dice
-  - 4: Crossroads: Can touch up to 4 dice
-  - 5: Tower: Stack all, must touch at least 2 dice
-  - 6: Hall: Merge all, can touch up to 4 dice
+|   |                                              |
+| - | -------------------------------------------- |
+| 1 | Dead End: Cannot touch more than 1 die       |
+| 2 | Passage: Cannot touch more than 2 dice       |
+| 3 | Split: Cannot touch more than 3 dice         |
+| 4 | Crossroads: Can touch up to 4 dice           |
+| 5 | Tower: Stack all, must touch at least 2 dice |
+| 6 | Hall: Merge all, can touch up to 4 dice      |
 
 For each die, add its value to all neighboring dice to determine its room. Halls and Towers are single rooms with all their dice summed.
-\- 3: Quarters
-\- 4: Jail
-\- 5: Sepulchre
-\- 6: Statuary
-\- 7: Store Room
-\- 8: Courtyard
-\- 9: Kitchen
-\- 10: Forge
-\- 11: Armory
-\- 12: Garden
-\- 13: Guard Post
-\- 14: Library
-\- 15: Arboretum
-\- 16: Crypts
-\- 17: Shrine
-\- 18: Gallery
-\- 19: Workshop
-\- 20-22: Temple
-\- 23-25: Throne Room
-\- 26-28: Laboratory
-\- 29-31: Menagerie
-\- 32+: Labyrinth
+
+|       |             |
+| ----- | ----------- |
+| 3     | Quarters    |
+| 4     | Jail        |
+| 5     | Sepulchre   |
+| 6     | Statuary    |
+| 7     | Store Room  |
+| 8     | Courtyard   |
+| 9     | Kitchen     |
+| 10    | Forge       |
+| 11    | Armory      |
+| 12    | Garden      |
+| 13    | Guard Post  |
+| 14    | Library     |
+| 15    | Arboretum   |
+| 16    | Crypts      |
+| 17    | Shrine      |
+| 18    | Gallery     |
+| 19    | Workshop    |
+| 20-22 | Temple      |
+| 23-25 | Throne Room |
+| 26-28 | Laboratory  |
+| 29-31 | Menagerie   |
+| 32+   | Labyrinth   |
 
 Place an entrance where it makes sense.
 
 For extra detail, modify each room based on lowest/highest neighboring die.
 
-  - 1,2,3: Lowest
-      - 2: Secret Exit
-      - 3: Trapped
-      - 4: Crumbling
-      - 5: Flooded
-      - 6: Damp
-  - 4,5,6: Highest
-      - 1: Ornate
-      - 2: Pristine
-      - 3: Opulent
-      - 4: Hidden Alcove
-      - 5: Locked
+| 1 2 3 | Lowest      | 4 5 6 | Highest       |
+| ----- | ----------- | ----- | ------------- |
+| 2     | Secret Exit | 1     | Ornate        |
+| 3     | Trapped     | 2     | Pristine      |
+| 4     | Crumbling   | 3     | Opulent       |
+| 5     | Flooded     | 4     | Hidden Alcove |
+| 6     | Damp        | 5     | Locked        |
 
 Roll an **encounter** in each room:
-1\. Threat: Active harm
-2\. Obstacle: Passive harm
-3\. Nothing: A moment of respite
-4\. Nothing: A moment of respite
-5\. Opportunity: Obstacle + Boon
-6\. Boon: Helpful or valuable
+
+|   |                              |
+| - | ---------------------------- |
+| 1 | Threat: Active harm          |
+| 2 | Obstacle: Passive harm       |
+| 3 | Nothing: A moment of respite |
+| 4 | Nothing: A moment of respite |
+| 5 | Opportunity: Obstacle + Boon |
+| 6 | Boon: Helpful or valuable    |
 
 **Tower**: Roll an encounter for each floor, then order them from lowest to highest.
 
@@ -1476,7 +1528,9 @@ If an attack reduces a PC’s HP exactly to 0, refer to the [**Scars**](/Golden%
 Damage that reduces a target’s HP **below** 0 decreases their STR by the remainder. They must then make a STR save to avoid **critical damage.** Failure takes them out of combat, dying if left untreated.
 
 Having STR 0 means **death;** having DEX 0 is paralysis; having WIL 0 is delirium.
-\#\# Acknowledgements
+
+## Acknowledgements
+
 This game would not have been possible without the work, inspiration and contributions of the following people:
 \- [Yochai Gal](https://newschoolrevolution.com/) for *Cairn*.
 \- [Simon Washbourne](https://rpggeek.com/rpgdesigner/18574/simon-washbourne) for *Ancient Mysteries & Lost Treasure* as primary inspiration.
@@ -1487,7 +1541,8 @@ This game would not have been possible without the work, inspiration and contrib
 \- David Lombardo (aka [Awkward Turtle](https://awkwardturtle.itch.io/)) for The Wallet Site Method, from [Wallet Dungeons](https://awkwardturtle.itch.io/wallet-dungeons) released under CC-BY-4.0 license.
 
 To all of them my deepest gratitude.
-\#\# Appendix A: Secret Societies
+
+## Appendix A: Secret Societies
 
 The following secret societies are mentioned in the adventure generation tables. You can consider them as evocative names only, or use the following summaries. They are just simple examples of what you can build by mining from your experience.
 
@@ -1560,7 +1615,8 @@ The society’s headquarters is located in a hidden location deep within a vast 
 The Children of the Celestial Flame operate in complete secrecy, with members taking a vow of loyalty and secrecy upon joining. They use their wealth and power to acquire rare and valuable artifacts, and they will go to great lengths to protect their discoveries from falling into the wrong hands.
 
 The society is known to operate through a network of agents and operatives, spread throughout the world, who work to further the society’s goals. The full extent of their power and influence is unknown, but some believe that they hold the key to unlocking the mysteries of the universe, while others see them as a dangerous and elitist organization that seeks to hoard knowledge for their own gain.
-\#\# Appendix B: Inspirational Media
+
+## Appendix B: Inspirational Media
 
 Below is a list of media that you can use to draw insights and ideas for your own adventures in *Golden Idol*.
 

@@ -9,3 +9,4 @@ This game would not have been possible without the work, inspiration and contrib
 - David Lombardo (aka [Awkward Turtle](https://awkwardturtle.itch.io/)) for The Wallet Site Method, from [Wallet Dungeons](https://awkwardturtle.itch.io/wallet-dungeons) released under CC-BY-4.0 license.
 
 To all of them my deepest gratitude.
+

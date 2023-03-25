@@ -68,3 +68,4 @@ The society's headquarters is located in a hidden location deep within a vast fo
 The Children of the Celestial Flame operate in complete secrecy, with members taking a vow of loyalty and secrecy upon joining. They use their wealth and power to acquire rare and valuable artifacts, and they will go to great lengths to protect their discoveries from falling into the wrong hands.
 
 The society is known to operate through a network of agents and operatives, spread throughout the world, who work to further the society's goals. The full extent of their power and influence is unknown, but some believe that they hold the key to unlocking the mysteries of the universe, while others see them as a dangerous and elitist organization that seeks to hoard knowledge for their own gain.
+

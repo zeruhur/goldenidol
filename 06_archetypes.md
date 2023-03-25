@@ -22,7 +22,7 @@ The soldier begins the game with a combat knife, a special firearm, and a helmet
 5. Built strong relationships with my comrades.
 6. Developed a particular area of expertise or specialty.
 
-#### Why do you joined LARA?  
+#### Why did you join LARA?  
 1. They chose me, I accepted.
 2. I wanted to use my skills and training in a meaningful way.
 3. I wanted to travel and see new places.
@@ -52,7 +52,7 @@ The archaeologist begins the game with a map, a compass, a pick, and a journal a
 5. Built a reputation as an expert in my field.
 6. Made important discoveries or contributions to the field of archeology.
 
-#### Why do you joined LARA?  
+#### Why did you join LARA?  
 1. I love history and making new discoveries.
 2. There is a mystery concealing the truth. I want to unveil it.
 3. Artifacts are historical evidence of a lost past. I must protect them.
@@ -82,7 +82,7 @@ The scientist begins the game with a laptop, a lab coat, a set of test tubes, an
 5. Specialized in a fringe science.
 6. Made a risky experiment fail spectacularly.
 
-#### Why do you joined LARA?  
+#### Why did you join LARA?  
 1. I wanted to learn more about fringe science.
 2. Artifacts are the new frontier of science.
 3. I wanted to work with the state of the art in science and technology.
@@ -97,12 +97,12 @@ The Specialist is a highly trained individual with a specific area of expertise,
 The specialist begins the game with a specialized kit relevant to their area of expertise, such as a hacker's laptop or a medic's first aid kit as additional equipment.
 
 #### What your background taught you  
-1. Identify and capitalize on unique opportunities
-2. Adapt to changing circumstances and think on my feet
-3. Stay resourceful and find creative solutions to problems
-4. Communicate and negotiate effectively
-5. Stay physically and mentally fit
-6. Maintain discipline and focus under pressure
+1. Identify and capitalize on unique opportunities.
+2. Adapt to changing circumstances and think on my feet.
+3. Stay resourceful and find creative solutions to problems.
+4. Communicate and negotiate effectively.
+5. Stay physically and mentally fit.
+6. Maintain discipline and focus under pressure.
 
 #### In the past, I...  
 1. Developed a unique skill or ability.
@@ -112,7 +112,7 @@ The specialist begins the game with a specialized kit relevant to their area of 
 5. Made enemies or rivals through my work.
 6. Suffered physical or mental injuries while working.
 
-#### Why do you joined LARA?  
+#### Why did you join LARA?  
 1. I wanted to use my unique skills in a meaningful way
 2. I wanted to make myself available to an experienced team for the greater good.
 3. Adventure and danger are my middle names.
@@ -142,11 +142,11 @@ The pilot begins the game with a flight suit, a map, and a radio as additional e
 5. Made enemies or rivals through my work.
 6. Suffered physical or mental injuries while flying.
 
-#### Why do you joined LARA?  
+#### Why did you join LARA?  
 1. Air is my element. And the planes make me dive into it.
 2. They said they needed pilots, so I thought I'd start settling debts with society.
 3. Excitement and danger are like a drug to me
-4. There are still corners of the world I don't know....
+4. There are still corners of the world I don't know...
 5. A freelance pilot earns significantly less than what LARA offers.
 6. I enjoy working in teams and transporting my teammates wherever they need.
 
@@ -172,7 +172,7 @@ The hustler begins the game with a set of clothes suitable for a variety of situ
 5. Lived a fast-paced and unpredictable lifestyle.
 6. Suffered setbacks or failures in my past endeavors.
 
-#### Why do you joined LARA?
+#### Why did you join LARA?
 1. They know that if they don't pay me enough I might sell everything back to the highest bidder.
 2. I have the opportunity to make amends for my dissolute and criminal life.
 3. The adventures that LARA offers are unparalleled.
