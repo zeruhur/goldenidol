@@ -14,7 +14,7 @@ The soldier begins the game with a combat knife, a special firearm, and a helmet
 5. To be a master survivalist.
 6. To be a natural born leader.
 
-#### In the past, I...  
+#### In the past, you...  
 1. Fought in a nasty war or conflict.
 2. Trained in a special forces unit.
 3. Completed high-stakes operations.
@@ -44,7 +44,7 @@ The archaeologist begins the game with a map, a compass, a pick, and a journal a
 5. Navigate and travel to remote locations.
 6. Stay safe in potentially hazardous environments.
 
-#### In the past, I...  
+#### In the past, you...  
 1. Studied a specific lost civilizations nobody believe exist.
 2. Conducted field research and excavations.
 3. Published papers or articles about my findings
@@ -74,7 +74,7 @@ The scientist begins the game with a laptop, a lab coat, a set of test tubes, an
 5. Stay up-to-date on current developments in their field.
 6. Think critically and solve problems creatively.
 
-#### In the past, I...  
+#### In the past, you...  
 1. Conducted research and experiments in a specific field.
 2. Published papers or articles about my findings.
 3. Worked for a university or research institution.
@@ -104,7 +104,7 @@ The specialist begins the game with a specialized kit relevant to their area of 
 5. Stay physically and mentally fit.
 6. Maintain discipline and focus under pressure.
 
-#### In the past, I...  
+#### In the past, you...  
 1. Developed a unique skill or ability.
 2. Worked as a freelancer or contractor.
 3. Completed high-stakes or dangerous missions.
@@ -134,7 +134,7 @@ The pilot begins the game with a flight suit, a map, and a radio as additional e
 5. Stay calm and level-headed under pressure.
 6. React appropriately in emergency situations.
 
-#### In the past, I...  
+#### In the past, you...  
 1. Trained as a pilot and gained experience flying various aircraft.
 2. Worked for a commercial airline or military unit.
 3. Completed high-stakes or dangerous missions.
@@ -164,7 +164,7 @@ The hustler begins the game with a set of clothes suitable for a variety of situ
 5. Stay calm and composed under pressure.
 6. Adapt to changing circumstances and think creatively.
 
-#### In the past, I...  
+#### In the past, you...  
 1. Ran scams or conned people.
 2. Worked as a freelancer or contractor.
 3. Built a reputation as a cunning and resourceful individual.

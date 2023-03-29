@@ -10,4 +10,4 @@ But beware. Secret societies and enemy agencies will get in your way!
 
 **Golden Idol** is based on [*Cairn*](https://cairnrpg.com) by Yochai Gal and licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-System Reference Document v.0.9.0
+System Reference Document v.1.0.0
