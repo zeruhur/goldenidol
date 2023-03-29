@@ -111,7 +111,6 @@ A PC cannot carry more items than their inventory allows. Carts (which must be p
 | Handcuffs                            | 50              |
 | Head Lamp                            | 25              |
 | Laptop                               | 1,000           |
-| Laptop                               | 1,000           |
 | Laser sight                          | 200             |
 | Lighter                              | 10              |
 | Locksmith tools                      | 150             |
@@ -134,5 +133,6 @@ A PC cannot carry more items than their inventory allows. Carts (which must be p
 | Tent, 2-4-8 person                   | 100 – 300 - 600 |
 | Thermal goggles                      | 800             |
 | Wire Bug                             | 25              |
+| Workstation                          | 2,000           |
 | Zip Ties                             | 25              |
 
