@@ -4,7 +4,7 @@
 The game typically plays without strict time accounting. In a fight or circumstance where timing is helpful, use rounds to keep track of when something occurs. A **round** is roughly ten seconds of in-game time and is comprised of turns.
 
 ### Actions  
-On their turn, a character may move up to 40ft and take up to one action. This may be casting a spell, attacking, making a second move, or some other reasonable action.
+On their turn, a character may move up to 40ft and take up to one action. This may be using an artifact, attacking, making a second move, or some other reasonable action.
 
 Each round, the PCs declare what they are doing before dice are rolled. If a character attempts something risky, the Referee calls for a save for appropriate players or NPCs.
 

@@ -1,7 +1,7 @@
 ## Rules Summary
 
 **ACTIONS**  
-On their turn, a character may move up to 40ft and take up to one action. Actions may include casting a spell, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
+On their turn, a character may move up to 40ft and take up to one action. Actions may include using an artifact, attacking, making a second move, or other reasonable activities. Actions, attacks, and movements take place simultaneously. Whenever turn order is uncertain, the PCs should make a DEX save to see if they go before their enemies.
 
 **Retreating** from a dangerous situation always requires a successful DEX save, as well as a safe destination to run to.
 

@@ -6,7 +6,7 @@ Each of the three **abilities** are used in different circumstances (see **saves
 
 **Dexterity (DEX)**: Used for saves requiring poise, speed, and reflexes like dodging, climbing, sneaking, balancing, etc.
 
-**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, manipulate spells, etc.
+**Willpower (WIL)**: Used for saves to persuade, deceive, interrogate, intimidate, charm, provoke, use of artifacts, etc.
 
 ### Saves
 A save is a roll to avoid bad outcomes from risky choices and circumstances. PCs roll a d20 for an appropriate ability score. If they roll equal to or under that ability score, they pass. Otherwise, they fail. A 1 is always a success, and a 20 is always a failure.
