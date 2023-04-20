@@ -9,7 +9,7 @@
 * [Vehicles](08_vehicles.md)
 * [Rules](09_rules.md)
 * [Combat](10_combat.md)
-* [Gobletrotting](11_globetrotting.md)
+* [Globetrotting](11_globetrotting.md)
 * [Site Exploration](12_sites_exploration.md)
 * [30 Artifacts](13_30_artifacts.md)
 * [30 Legendary Places](14_30_legendary_places.md)
